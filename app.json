@@ -196,6 +196,15 @@
     "utilities":{ "apps":
     [
       {
+        "name": "Cốc Cốc TV Lite",
+        "versionName": "1.6",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/CocCocTVLite_1.6.apk",
+        "note": "Cốc Cốc là một trình duyệt Việt Nam chặn quảng cáo, bảo vệ quyền riêng tư của bạn và cung cấp trải nghiệm duyệt web an toàn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh1.png"]
+      },
+      {
         "name": "LeanKey Keyboard Pro",
         "versionName": "22.06.07_vi-dinhlap",
         "type": "Tiện ích",
