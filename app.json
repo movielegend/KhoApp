@@ -18,6 +18,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh3.png"]
         },
         {
+          "name": "VTVGo",
+          "versionName": "9.4.9-androidtv",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/VTVGoTV_9.4.9-androidtv.apk",
+          "note": "VTV Go là hệ thống truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép hàng triệu khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên các lĩnh vực Thời sự, Kinh tế, Văn hóa, Giải trí, Thể thao, Quốc tế, Phim truyện..",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/anh.png"]
+        },
+        {
           "name": "Monster TV",
           "versionName": "3.1.0",
           "type": "Truyền hình trực tuyến",
@@ -25,6 +34,51 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.apk",
           "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
+        },
+        {
+          "name": "BeeTV",
+          "versionName": "1.14",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/BeeTV_v1.14.apk",
+          "note": "Hot BeeTV xem truyền hình, miễn phí.\nLưu ý: Chỉ hỗ trợ android 7 trở lên.\nNguồn : http://www.quangkv.com/",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/anh.png"]
+        },
+        {
+          "name": "iMedia - Xem Tivi HD",
+          "versionName": "23032703",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia.23042303-Beta-release.apk",
+          "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
+        },
+        {
+          "name": "TiviMate",
+          "versionName": "2.8.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/TiviMate_TV.apk",
+          "note": "TiviMate là ứng dụng xem truyền hình IPTV tối ưu tốt cho Android TV và TV Box, với rất nhiều tính năng tiện dụng được tích hợp sẵn, chăc chắn sẽ làm bạn hài lòng.\nYêu cầu: Android 5.0 trở lên.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/anh1.png"]
+        },
+        {
+          "name": "TV360",
+          "versionName": "2.0.5",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360SmartTV_2.0.5.apk",
+          "note": "Tất cả đều có trên ứng dụng TV360:\n• Gần 200 kênh truyền hình K+, VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương.\n\n• Trực tiếp bóng đá Premier League, Champion League, Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png"]
+        },
+        {
+          "name": "My TV",
+          "versionName": "3.73.0_452_2212121612",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV.apk",
+          "note": "THOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
         }
         ]
       },
@@ -56,6 +110,87 @@
         "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
         "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
+      },
+      {
+        "name": "TikTok TV",
+        "versionName": "11.9.10",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/TikTok_TV.apk",
+        "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
+      },
+      {
+        "name": "⚽ Sport TV",
+        "versionName": "3.8.1",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportTV.apk",
+        "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh.png"]
+      },
+      {
+        "name": "Vebo TV",
+        "versionName": "1.0",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
+        "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
+      },
+      {
+        "name": "VTV Giải Trí",
+        "versionName": "2.0.0",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGiaiTri/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGiaiTri/vtv_giaitri_TV.apk",
+        "note": "VTV Giải Trí là ứng dụng cung cấp các chương trình giải trí đặc sắc nhất của VTV\nVTV Giải Trí là ứng dụng cung cấp các chương trình giải trí đặc sắc nhất của VTV bao gồm phim truyện truyền hình dài tập, phim ngắn, các chương trình giải trí, tv shows..\nNhằm thoả mãn nhu cầu giải trí của tất cả mọi người, VTV Giải Trí sẽ liên tục cập nhật những chương trình đặc sắc nhất của VTV mỗi ngày. Sử dụng nền tảng công nghệ 4.0 mới nhất, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGiaiTri/anh.png"]
+      },
+      {
+        "name": "My TV",
+        "versionName": "3.73.0_452_2212121612",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV.apk",
+        "note": "THOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
+      },
+      {
+        "name": "FPT Play",
+        "versionName": "7.7.14",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPTPlay.apk",
+        "note": "Cảm ơn bạn đã sử dụng FPT Play for Android TV. Ứng dụng được cập nhật định kỳ và thường xuyên nhằm nâng cao trải nghiệm tốt hơn.\nChi tiết cập nhật như sau:\n\n- Khắc phục một số lỗi, cải thiện hiệu năng và tăng trải nghiệm người dùng.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png"]
+      },
+      {
+        "name": "Nhac Cua Tui",
+        "versionName": "5.1.3",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NhacCuaTui/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NhacCuaTui/NhacCuaTuiTV.apk",
+        "note": "NhacCuaTui TV \nYêu cầu: TV / Box\nTổng quan: NhacCuaTui TV là ứng dụng nghe nhạc và xem video trực tuyến hoàn toàn miễn phí trên TV. Với hàng triệu bài hát, video chọn lọc được cập nhật liên tục, giúp bạn dễ dàng tìm kiếm những bài hát mà mình yêu thích. ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NhacCuaTui/anh.png"]
+      },
+      {
+        "name": "Spotify",
+        "versionName": "1.59.3",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/SpotifyADS.Removed.apk",
+        "note": "Với Spotify trên TV, bạn có thể thưởng thức tất cả nhạc và podcast mình thích, ngay trên màn hình lớn. Lướt qua trang nghệ sĩ, album, bài hát và playlist cũng như xem trang nghệ sĩ và ảnh bìa đẹp lộng lẫy cỡ màn hình TV. Điều khiển phát bằng điều khiển TV hoặc bằng Spotify Connect trên điện thoại hay máy tính bảng của bạn. Bạn thậm chí có thể chuyển qua lại giữa hai thiết bị để tận hưởng trải nghiệm hoàn toàn liền mạch.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh.png"]
+      },
+      {
+        "name": "Zing Mp3",
+        "versionName": "20.06.01",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/zingmp3TVmod.apk",
+        "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh.png"]
       }
     ]
     },
@@ -71,22 +206,76 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/anh.png"]
       },
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "Weather Live",
+        "versionName": "6.20.3",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/Weather_Live_pro.apk",
+        "note": "Weather Live là một lựa chọn vô cùng đáng tin cậy mà người dùng nên có trên thiết bị di động của mình. Ứng dụng này được coi là điều không tưởng của các nhà dự báo thời tiết cho phép người dùng truy cập vào những thông tin thời tiết cực kỳ chính xác. ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/anh.png"]
       },
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "X-plore",
+        "versionName": "4.27.60",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Xplore/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Xplore/XploreFileManager.apk",
+        "note": "Weather Live là một lựa chọn vô cùng đáng tin cậy mà người dùng nên có trên thiết bị di động của mình. Ứng dụng này được coi là điều không tưởng của các nhà dự báo thời tiết cho phép người dùng truy cập vào những thông tin thời tiết cực kỳ chính xác. ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Xplore/anh.png"]
+      },
+      {
+        "name": "Kiki - Trợ lý ảo Zalo",
+        "versionName": "23.06.02",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/KikiAuto_23.06.02.apk",
+        "note": "Trợ lý Kiki sử dụng trên ô tô, điều khiển bằng giọng nói tiếng Việt\n\"Kiki Auto\" là phiên bản trợ lý Kiki sử dụng trên ô tô. Tính năng điều khiển bằng giọng nói mang lại sự tiện dụng và an toàn khi lái xe. Chỉ bằng một câu nói đơn giản, người dùng có thể \"nhờ\" trợ lý Kiki chỉ đường, bật nhạc, gọi điện thoại, và nhiều tác vụ hữu ích khác.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png"]
+      },
+      {
+        "name": "TV Bro",
+        "versionName": "1.8.6",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TVBro/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TVBro/tvbro1.8.6.apk",
+        "note": "Trình duyệt web được tối ưu hóa để sử dụng với TV từ xa.\n\nTính năng, đặc điểm:\n- làm việc với TV từ xa\n- các tab và dấu hỗ trợ\n- Hỗ trợ tìm kiếm bằng giọng nói\n- Hỗ trợ chuyển đổi user agent",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TVBro/anh.png"]
+      },
+      {
+        "name": "FireFox AndroidTV",
+        "versionName": "4.7.1.Phaptx5mod",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/tvbro1.8.6.apk",
+        "note": "Xem video từ các trang phổ biến — hoặc tìm kiếm toàn bộ trang web — với Firefox dành cho Fire TV. Sử dụng điều khiển từ xa hoặc ứng dụng Fire TV của bạn để phát, tạm dừng, tua nhanh và tua lại. Màn hình chính của Firefox dành cho Fire TV thậm chí còn bao gồm khả năng truy cập nhanh vào các trang web video phổ biến và một số nội dung và ý tưởng hay nhất của web.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
+      },
+      {
+        "name": "AirScreen",
+        "versionName": "2.2.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/Airscreen_2.2.0.apk",
+        "note": "AirScreen là bộ thu phát trực tuyến không dây tiên tiến nhất cho AirPlay, Chromecast, Miracast * và DLNA. Nó có thể cho phép thiết bị của bạn thu phản chiếu màn hình, ảnh, nhạc, video và các phương tiện khác từ điện thoại, máy tính bảng, máy tính xách tay và hơn thế nữa qua Wi-Fi hoặc Ethernet, cho phép bạn trải nghiệm niềm vui khi chia sẻ hầu hết mọi thứ với gia đình và bạn bè của mình trên một màn hình lớn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
+      },
+      {
+        "name": "CastReceiver",
+        "versionName": "1.1.5",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/CastReceiver_1.5.5.apk",
+        "note": "CastReceiver là Bộ thu truyền màn hình. Nó cho phép bạn phản chiếu điện thoại Android hoặc Tab Chrome của bạn với bất kỳ hộp Android nào chạy CastReceiver.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/anh.png"]
+      },
+      {
+        "name": "FastCast TV",
+        "versionName": "2.09.221014",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
+        "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
       }
     ]
     },
@@ -98,26 +287,26 @@
         "type": "Danh cho trẻ em",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
-        "note": "linkDownload",
+        "note": "YouTube Kids mang đến một môi trường an toàn hơn để trẻ khám phá YouTube cũng như giúp cha mẹ và người chăm sóc dễ dàng hướng dẫn trẻ trên hành trình học ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
       },
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "KidsBeeTV",
+        "versionName": "3.7.20",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidsBeeTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidsBeeTV/KidsBeeTV.apk",
+        "note": "KidsBeeTV là một nền tảng truyền phát video an toàn và mang tính giáo dục dành cho trẻ em, với hơn 5.000 video, chương trình truyền hình và trò chơi học tập vui nhộn, an toàn dành cho trẻ em. Bao gồm các chương trình nổi tiếng dành cho trẻ em, video giáo dục, bài đồng dao, ngữ âm và bài hát ru dành cho trẻ em do giáo viên tuyển chọn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidsBeeTV/anh.png"]
       },
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "Kidoodle TV",
+        "versionName": "3.16.12",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidoodleTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidoodleTV/KidoodleTV.apk",
+        "note": "KidsBeeTV là một nền tảng truyền phát video an toàn và mang tính giáo dục dành cho trẻ em, với hơn 5.000 video, chương trình truyền hình và trò chơi học tập vui nhộn, an toàn dành cho trẻ em. Bao gồm các chương trình nổi tiếng dành cho trẻ em, video giáo dục, bài đồng dao, ngữ âm và bài hát ru dành cho trẻ em do giáo viên tuyển chọn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidoodleTV/anh.png"]
       }
     ]
     }
