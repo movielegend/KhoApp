@@ -2,7 +2,7 @@
   "data":{
     "notification":
        {
-         "note"  :"Hotline: 1900.25.25.97 - Cơ sở 1: 48/18 Huỳnh Thúc Kháng, Đống Đa, Hà Nội - Cơ sở 2: 29/88 Trần Quý Cáp, Đống Đa, Hà Nội - Cơ sở 3: 2 Ngõ 1 Gia Quất, Long Biên, Hà Nội",
+         "note":"Hotline: 1900.25.25.97 - Cơ sở 1: 48/18 Huỳnh Thúc Kháng, Đống Đa, Hà Nội - Cơ sở 2: 29/88 Trần Quý Cáp, Đống Đa, Hà Nội - Cơ sở 3: 2 Ngõ 1 Gia Quất, Long Biên, Hà Nội",
          "photo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/1ThongBao/ThongBao.jpg"
        }
     ,
@@ -12,19 +12,19 @@
           "name": "DL Tivi",
           "versionName": "12.3.3",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/DLTivi/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/DLTivi/DLTivi_v12.3.3.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/DLTivi_v12.3.3.apk",
           "note": "DL Tivi - IPTV là ứng dụng xem phim, truyền hình yêu cầu sử dụng mạng dàng cho cả Điện Thoại Android và TV Android .\n*Lưu ý: Vì một số lí do, người dùng mới phải thêm danh sách mặc định - > vào google gõ : \"list kênh iptv\" để có thể tìm danh sách iptv hoặc liên hệ với tác giả.\n+ Đa ngôn ngữ Multi language (en, ru, zh, hi, co, ca, lo, th, in, km, pt, ja, vi. )\n+ Hỗ chế độ xem Hình trong Hình cho thiết bị có hỗ trợ.\n+ Lưu lại đường link danh sách kênh.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/DLTivi/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/DLTivi/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/DLTivi/anh3.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh3.png"]
         },
         {
-          "name": "name",
-          "versionName": "versionName",
-          "type": "type",
-          "logo": "logo",
-          "linkDownload": "linkDownload",
-          "note": "linkDownload",
-          "preview": ["anh1", "anh2", "anh3"]
+          "name": "Monster TV",
+          "versionName": "3.1.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.apk",
+          "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
         }
         ]
       },
@@ -34,41 +34,41 @@
         "name": "YouTube",
         "versionName": "2.02.14",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Youtube/LogoYoutube.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Youtube/youtubeF.apk",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/LogoYoutube.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/youtubeF.apk",
         "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Youtube/Screenshot_17.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Youtube/Screenshot_16.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_17.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_16.png"]
       },
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "SmartTube Next(Stable)",
+        "versionName": "Luôn là bản Stable mới nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/Stable.png",
+        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
+        "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
       },
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "SmartTube Next(Beta)",
+        "versionName": "Luôn là bản Beta mới nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/beta.png",
+        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
+        "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
       }
     ]
     },
     "utilities":{ "apps":
     [
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
-        "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "name": "LeanKey Keyboard Pro",
+        "versionName": "22.06.07_vi-dinhlap",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/LeanKeyKeyboardPro.apk",
+        "note": "Một số lượng lớn các hộp giải mã tín hiệu thiếu bàn phím tốt. Ứng dụng này nhằm khắc phục sự cố như vậy.\n\nĐặc trưng:\n- Hỗ trợ kiểu gõ tiếng việt\n- Hỗ trợ điều khiển từ xa đơn giản\n- Có bố cục cho hầu hết mọi ngôn ngữ\n- Hỗ trợ phím tắt bổ sung (ví dụ: menu).",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/anh.png"]
       },
       {
         "name": "name",
@@ -93,13 +93,13 @@
     "childre":{ "apps":
     [
       {
-        "name": "name",
-        "versionName": "versionName",
-        "type": "type",
-        "logo": "logo",
-        "linkDownload": "linkDownload",
+        "name": "YouTube Kids TV",
+        "versionName": "1.12.02",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
         "note": "linkDownload",
-        "preview": ["anh1", "anh2", "anh3"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
       },
       {
         "name": "name",
