@@ -53,6 +53,33 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/anh.png"]
         },
         {
+          "name": "OTT-Navigator",
+          "versionName": "1.6.7.5",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.6.7.5_arm_Mod.apk",
+          "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
+        },
+        {
+          "name": "Hi TV",
+          "versionName": "30.1.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HITV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HITV/HiTV_movie.apk",
+          "note": " Tại HiTV, có những bộ phim đặc sắc cực hot. Chúng tôi luôn cập nhật liên tục các phim mới. Phim bộ Hàn Quốc, Trung Quốc, những bộ phim kinh điển, phim mới nhất, ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HITV/anh.png"]
+        },
+        {
+          "name": "iQIYI",
+          "versionName": "Đang Cập Nhật",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI_movie.apk",
+          "note": " iQIYI · Tải xuống miễn phí - xem mọi lúc mọi nơi. · Xem nhiều phim trực tuyến hình ảnh chất lượng cao bản gốc lượng lớn ",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh.png"]
+        },
+        {
           "name": "iMedia - Xem Tivi HD",
           "versionName": "23032703",
           "type": "Truyền hình trực tuyến",
