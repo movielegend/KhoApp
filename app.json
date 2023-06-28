@@ -106,7 +106,7 @@
         "versionName": "Netflix_2.77",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_FHD/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_FHD.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_FHD/Netflix_FHD.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_FHD/anh.png"]
       },
@@ -115,7 +115,7 @@
         "versionName": "Netflix_2.7",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NetflixTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NetflixTV.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NetflixTV/NetflixTV.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NetflixTV/anh.png"]
       },
