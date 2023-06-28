@@ -35,6 +35,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/anh.png"]
         },
         {
+          "name": "VieON",
+          "versionName": "30.1.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON.apk",
+          "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
+        },
+        {
           "name": "BeeTV",
           "versionName": "1.14",
           "type": "Truyền hình trực tuyến",
