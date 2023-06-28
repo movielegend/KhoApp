@@ -196,6 +196,33 @@
     "utilities":{ "apps":
     [
       {
+        "name": "AirScreen",
+        "versionName": "2.2.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/Airscreen_2.2.0.apk",
+        "note": "AirScreen là bộ thu phát trực tuyến không dây tiên tiến nhất cho AirPlay, Chromecast, Miracast * và DLNA. Nó có thể cho phép thiết bị của bạn thu phản chiếu màn hình, ảnh, nhạc, video và các phương tiện khác từ điện thoại, máy tính bảng, máy tính xách tay và hơn thế nữa qua Wi-Fi hoặc Ethernet, cho phép bạn trải nghiệm niềm vui khi chia sẻ hầu hết mọi thứ với gia đình và bạn bè của mình trên một màn hình lớn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
+      },
+      {
+        "name": "CastReceiver",
+        "versionName": "1.1.5",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/CastReceiver_1.5.5.apk",
+        "note": "CastReceiver là Bộ thu truyền màn hình. Nó cho phép bạn phản chiếu điện thoại Android hoặc Tab Chrome của bạn với bất kỳ hộp Android nào chạy CastReceiver.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/anh.png"]
+      },
+      {
+        "name": "FastCast TV",
+        "versionName": "2.09.221014",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
+        "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
+      },
+      {
         "name": "Cốc Cốc TV Lite",
         "versionName": "1.6",
         "type": "Tiện ích",
@@ -257,33 +284,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/tvbro1.8.6.apk",
         "note": "Xem video từ các trang phổ biến — hoặc tìm kiếm toàn bộ trang web — với Firefox dành cho Fire TV. Sử dụng điều khiển từ xa hoặc ứng dụng Fire TV của bạn để phát, tạm dừng, tua nhanh và tua lại. Màn hình chính của Firefox dành cho Fire TV thậm chí còn bao gồm khả năng truy cập nhanh vào các trang web video phổ biến và một số nội dung và ý tưởng hay nhất của web.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
-      },
-      {
-        "name": "AirScreen",
-        "versionName": "2.2.0",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/Airscreen_2.2.0.apk",
-        "note": "AirScreen là bộ thu phát trực tuyến không dây tiên tiến nhất cho AirPlay, Chromecast, Miracast * và DLNA. Nó có thể cho phép thiết bị của bạn thu phản chiếu màn hình, ảnh, nhạc, video và các phương tiện khác từ điện thoại, máy tính bảng, máy tính xách tay và hơn thế nữa qua Wi-Fi hoặc Ethernet, cho phép bạn trải nghiệm niềm vui khi chia sẻ hầu hết mọi thứ với gia đình và bạn bè của mình trên một màn hình lớn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
-      },
-      {
-        "name": "CastReceiver",
-        "versionName": "1.1.5",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/CastReceiver_1.5.5.apk",
-        "note": "CastReceiver là Bộ thu truyền màn hình. Nó cho phép bạn phản chiếu điện thoại Android hoặc Tab Chrome của bạn với bất kỳ hộp Android nào chạy CastReceiver.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/anh.png"]
-      },
-      {
-        "name": "FastCast TV",
-        "versionName": "2.09.221014",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
-        "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
       }
     ]
     },
