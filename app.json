@@ -80,6 +80,33 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh.png"]
         },
         {
+          "name": "Projectivy_Launcher",
+          "versionName": "V4.24",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Projectivy_Launcher/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Projectivy_Launcher/Projectivy_Launcher_v4.24_Mod.apk",
+          "note": " Projectivy Launcher là một trình khởi chạy thay thế dành cho Android TV, phù hợp với nhu cầu của TV và máy chiếu của bạn: mượt mà, gọn gàng ",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Projectivy_Launcher/anh.png"]
+        },
+        {
+          "name": "THVLi",
+          "versionName": "V4.24",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/THVLi_2.1.0 Mod HPO.apk",
+          "note": " Đài Phát thanh - Truyền hình Vĩnh Long ; THVL · Việt Nam · 2 tháng 9 năm 1977; 45 năm trước (1977-09-02) · Toàn thế giới (qua THVLi) · tháng 4 năm 1977; 46 năm trước ... ",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/anh.png"]
+        },
+        {
+          "name": "HBO_Go",
+          "versionName": "V4.24",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/HBO_GO_Android_TV_v21_0_0_161apk",
+          "note": " HBO (Home Box Office) là kênh truyền hình của Mỹ, chiếu phim và thể thao, ... nổi tiếng nhất thế giới như Columbia Tristar, DreamWorks, Paramount Pictures, ... ",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/anh.png"]
+        },
+        {
           "name": "iMedia - Xem Tivi HD",
           "versionName": "23032703",
           "type": "Truyền hình trực tuyến",
