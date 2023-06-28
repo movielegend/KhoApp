@@ -26,15 +26,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
         },
         {
-          "name": "VTVGo",
-          "versionName": "9.4.9-androidtv",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/VTVGoTV_9.4.9-androidtv.apk",
-          "note": "VTV Go là hệ thống truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép hàng triệu khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên các lĩnh vực Thời sự, Kinh tế, Văn hóa, Giải trí, Thể thao, Quốc tế, Phim truyện..",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/anh.png"]
-        },
-        {
           "name": "VieON",
           "versionName": "30.1.0",
           "type": "Truyền hình trực tuyến",
@@ -329,15 +320,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/Weather_Live_pro.apk",
         "note": "Weather Live là một lựa chọn vô cùng đáng tin cậy mà người dùng nên có trên thiết bị di động của mình. Ứng dụng này được coi là điều không tưởng của các nhà dự báo thời tiết cho phép người dùng truy cập vào những thông tin thời tiết cực kỳ chính xác. ",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/anh.png"]
-      },
-      {
-        "name": "X-plore",
-        "versionName": "4.27.60",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Xplore/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Xplore/XploreFileManager.apk",
-        "note": "Weather Live là một lựa chọn vô cùng đáng tin cậy mà người dùng nên có trên thiết bị di động của mình. Ứng dụng này được coi là điều không tưởng của các nhà dự báo thời tiết cho phép người dùng truy cập vào những thông tin thời tiết cực kỳ chính xác. ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Xplore/anh.png"]
       },
       {
         "name": "Kiki - Trợ lý ảo Zalo",
