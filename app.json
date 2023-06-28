@@ -17,15 +17,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh3.png"]
         },
         {
-          "name": "VTVGo",
-          "versionName": "9.4.9-androidtv",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/VTVGoTV_9.4.9-androidtv.apk",
-          "note": "VTV Go là hệ thống truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép hàng triệu khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên các lĩnh vực Thời sự, Kinh tế, Văn hóa, Giải trí, Thể thao, Quốc tế, Phim truyện..",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/anh.png"]
-        },
-        {
           "name": "Monster TV",
           "versionName": "3.1.0",
           "type": "Truyền hình trực tuyến",
@@ -33,6 +24,15 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.apk",
           "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
+        },
+        {
+          "name": "VTVGo",
+          "versionName": "9.4.9-androidtv",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/VTVGoTV_9.4.9-androidtv.apk",
+          "note": "VTV Go là hệ thống truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép hàng triệu khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên các lĩnh vực Thời sự, Kinh tế, Văn hóa, Giải trí, Thể thao, Quốc tế, Phim truyện..",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGo/anh.png"]
         },
         {
           "name": "BeeTV",
