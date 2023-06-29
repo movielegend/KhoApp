@@ -277,6 +277,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
       },
       {
+        "name": "AirPin(PRO)",
+        "versionName": "5.0.2",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO) - AirPlay_DLNA Receiver_5.0.2_apk.apk",
+        "note": "Airpin Pro Apk là một ứng dụng Airplay hoặc DLNA Recover dành cho điện thoại di động Android. Thông qua ứng dụng di động này, người dùng có thể dễ dàng kết nối ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
+      },
+      {
         "name": "CastReceiver",
         "versionName": "1.1.5",
         "type": "Tiện ích",
