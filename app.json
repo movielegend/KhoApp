@@ -93,7 +93,7 @@
           "versionName": "V4.24",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/HBO_GO_Android_TV_v21_0_0_161apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/HBO_GO_Android_TV_v21_0_0_161.apk",
           "note": " HBO (Home Box Office) là kênh truyền hình của Mỹ, chiếu phim và thể thao, ... nổi tiếng nhất thế giới như Columbia Tristar, DreamWorks, Paramount Pictures, ... ",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/anh.png"]
         },
@@ -281,7 +281,7 @@
         "versionName": "5.0.2",
         "type": "Tiện ích",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO) - AirPlay_DLNA Receiver_5.0.2_apk.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
         "note": "Airpin Pro Apk là một ứng dụng Airplay hoặc DLNA Recover dành cho điện thoại di động Android. Thông qua ứng dụng di động này, người dùng có thể dễ dàng kết nối ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
       },
@@ -353,7 +353,7 @@
         "versionName": "4.7.1.Phaptx5mod",
         "type": "Tiện ích",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/tvbro1.8.6.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/FireFoxTV.apk",
         "note": "Xem video từ các trang phổ biến — hoặc tìm kiếm toàn bộ trang web — với Firefox dành cho Fire TV. Sử dụng điều khiển từ xa hoặc ứng dụng Fire TV của bạn để phát, tạm dừng, tua nhanh và tua lại. Màn hình chính của Firefox dành cho Fire TV thậm chí còn bao gồm khả năng truy cập nhanh vào các trang web video phổ biến và một số nội dung và ý tưởng hay nhất của web.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
       }
