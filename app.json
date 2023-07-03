@@ -147,6 +147,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_17.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_16.png"]
       },
       {
+        "name": "GalaxyPlay",
+        "versionName": "3.9.37",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/GalaxyPlay_3.9.37.apk",
+        "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
+      },
+      {
         "name": "Netflix_FHD",
         "versionName": "Netflix_2.77",
         "type": "Giải Trí",
@@ -284,6 +293,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
         "note": "Airpin Pro Apk là một ứng dụng Airplay hoặc DLNA Recover dành cho điện thoại di động Android. Thông qua ứng dụng di động này, người dùng có thể dễ dàng kết nối ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
+      },
+      {
+        "name": "emotn",
+        "versionName": "1.0.89",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/emotn.apk",
+        "note": "Emotn UI là một ứng dụng dành cho máy tính để bàn được phát triển cho các thiết bị Android TV. Nó có lợi thế là chi phí",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/anh2.png"]
       },
       {
         "name": "CastReceiver",
