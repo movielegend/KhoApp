@@ -30,7 +30,7 @@
           "versionName": "30.1.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON-for-AndroidTV_30.3.4.apk",
           "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
         },
@@ -320,6 +320,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
         "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
+      },
+      {
+        "name": "VLC",
+        "versionName": "3.5.4",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/VLC_3.5.4.apk",
+        "note": "VLC media player (thường gọi tắt là VLC) là một media player và streaming ... trên toàn thế giới và được điều phối bởi VideoLAN.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh.png"]
       },
       {
         "name": "Cốc Cốc TV Lite",
