@@ -123,15 +123,6 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360SmartTV_2.0.5.apk",
           "note": "Tất cả đều có trên ứng dụng TV360:\n• Gần 200 kênh truyền hình K+, VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương.\n\n• Trực tiếp bóng đá Premier League, Champion League, Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png"]
-        },
-        {
-          "name": "My TV",
-          "versionName": "3.73.0_452_2212121612",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV.apk",
-          "note": "THOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
         }
         ]
       },
@@ -217,15 +208,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
         "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
-      },
-      {
-        "name": "VTV Giải Trí",
-        "versionName": "2.0.0",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGiaiTri/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGiaiTri/vtv_giaitri_TV.apk",
-        "note": "VTV Giải Trí là ứng dụng cung cấp các chương trình giải trí đặc sắc nhất của VTV\nVTV Giải Trí là ứng dụng cung cấp các chương trình giải trí đặc sắc nhất của VTV bao gồm phim truyện truyền hình dài tập, phim ngắn, các chương trình giải trí, tv shows..\nNhằm thoả mãn nhu cầu giải trí của tất cả mọi người, VTV Giải Trí sẽ liên tục cập nhật những chương trình đặc sắc nhất của VTV mỗi ngày. Sử dụng nền tảng công nghệ 4.0 mới nhất, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGiaiTri/anh.png"]
       },
       {
         "name": "My TV",
@@ -331,15 +313,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh.png"]
       },
       {
-        "name": "Cốc Cốc TV Lite",
-        "versionName": "1.6",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/CocCocTVLite_1.6.apk",
-        "note": "Cốc Cốc là một trình duyệt Việt Nam chặn quảng cáo, bảo vệ quyền riêng tư của bạn và cung cấp trải nghiệm duyệt web an toàn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh1.png"]
-      },
-      {
         "name": "LeanKey Keyboard Pro",
         "versionName": "22.06.07_vi-dinhlap",
         "type": "Tiện ích",
@@ -349,15 +322,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/anh.png"]
       },
       {
-        "name": "Weather Live",
-        "versionName": "6.20.3",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/Weather_Live_pro.apk",
-        "note": "Weather Live là một lựa chọn vô cùng đáng tin cậy mà người dùng nên có trên thiết bị di động của mình. Ứng dụng này được coi là điều không tưởng của các nhà dự báo thời tiết cho phép người dùng truy cập vào những thông tin thời tiết cực kỳ chính xác. ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeatherLive/anh.png"]
-      },
-      {
         "name": "Kiki - Trợ lý ảo Zalo",
         "versionName": "23.06.02",
         "type": "Tiện ích",
@@ -365,24 +329,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/KikiAuto_23.06.02.apk",
         "note": "Trợ lý Kiki sử dụng trên ô tô, điều khiển bằng giọng nói tiếng Việt\n\"Kiki Auto\" là phiên bản trợ lý Kiki sử dụng trên ô tô. Tính năng điều khiển bằng giọng nói mang lại sự tiện dụng và an toàn khi lái xe. Chỉ bằng một câu nói đơn giản, người dùng có thể \"nhờ\" trợ lý Kiki chỉ đường, bật nhạc, gọi điện thoại, và nhiều tác vụ hữu ích khác.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png"]
-      },
-      {
-        "name": "TV Bro",
-        "versionName": "1.8.6",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TVBro/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TVBro/tvbro1.8.6.apk",
-        "note": "Trình duyệt web được tối ưu hóa để sử dụng với TV từ xa.\n\nTính năng, đặc điểm:\n- làm việc với TV từ xa\n- các tab và dấu hỗ trợ\n- Hỗ trợ tìm kiếm bằng giọng nói\n- Hỗ trợ chuyển đổi user agent",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TVBro/anh.png"]
-      },
-      {
-        "name": "FireFox AndroidTV",
-        "versionName": "4.7.1.Phaptx5mod",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/FireFoxTV.apk",
-        "note": "Xem video từ các trang phổ biến — hoặc tìm kiếm toàn bộ trang web — với Firefox dành cho Fire TV. Sử dụng điều khiển từ xa hoặc ứng dụng Fire TV của bạn để phát, tạm dừng, tua nhanh và tua lại. Màn hình chính của Firefox dành cho Fire TV thậm chí còn bao gồm khả năng truy cập nhanh vào các trang web video phổ biến và một số nội dung và ý tưởng hay nhất của web.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
       }
     ]
     },
@@ -396,24 +342,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
         "note": "YouTube Kids mang đến một môi trường an toàn hơn để trẻ khám phá YouTube cũng như giúp cha mẹ và người chăm sóc dễ dàng hướng dẫn trẻ trên hành trình học ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
-      },
-      {
-        "name": "KidsBeeTV",
-        "versionName": "3.7.20",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidsBeeTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidsBeeTV/KidsBeeTV.apk",
-        "note": "KidsBeeTV là một nền tảng truyền phát video an toàn và mang tính giáo dục dành cho trẻ em, với hơn 5.000 video, chương trình truyền hình và trò chơi học tập vui nhộn, an toàn dành cho trẻ em. Bao gồm các chương trình nổi tiếng dành cho trẻ em, video giáo dục, bài đồng dao, ngữ âm và bài hát ru dành cho trẻ em do giáo viên tuyển chọn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidsBeeTV/anh.png"]
-      },
-      {
-        "name": "Kidoodle TV",
-        "versionName": "3.16.12",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidoodleTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidoodleTV/KidoodleTV.apk",
-        "note": "KidsBeeTV là một nền tảng truyền phát video an toàn và mang tính giáo dục dành cho trẻ em, với hơn 5.000 video, chương trình truyền hình và trò chơi học tập vui nhộn, an toàn dành cho trẻ em. Bao gồm các chương trình nổi tiếng dành cho trẻ em, video giáo dục, bài đồng dao, ngữ âm và bài hát ru dành cho trẻ em do giáo viên tuyển chọn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KidoodleTV/anh.png"]
       }
     ]
     }
