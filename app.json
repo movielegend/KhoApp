@@ -48,7 +48,7 @@
           "versionName": "1.6.9.4",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.6.7.5.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.6.9.4.apk",
           "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
         },
@@ -338,6 +338,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh.png"]
+      },
+      {
+        "name": "TeamViewer QuickSupport",
+        "versionName": "15.35.156",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/TeamViewerQuickSupport.apk",
+        "note": "Nhìn chung, phần mềm truy cập máy tính từ xa TeamViewer QuickSupport là một phần mềm khá nhỏ gọn và tiện dụng, được sử dụng để nhanh chóng tạo kết nối giữa hai ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/anh1.png"]
       }
     ]
     },
