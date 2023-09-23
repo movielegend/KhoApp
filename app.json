@@ -35,15 +35,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
         },
         {
-          "name": "BeeTV",
-          "versionName": "1.14",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/BeeTV_v1.14.apk",
-          "note": "Hot BeeTV xem truyền hình, miễn phí.\nLưu ý: Chỉ hỗ trợ android 7 trở lên.\nNguồn : http://www.quangkv.com/",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BeeTV/anh.png"]
-        },
-        {
           "name": "BongNgoTV",
           "versionName": "5.7.1",
           "type": "Truyền hình trực tuyến",
