@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/anh.png"]
         },
         {
+          "name": "TV-Bro",
+          "versionName": "1.8.6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/TV-Bro_1.8.6.apk",
+          "note": "TV PRO là nguồn phim Full HD được tổng hợp ...\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/anh.png"]
+        },
+        {
           "name": "OTT-Navigator",
           "versionName": "1.6.9.4",
           "type": "Truyền hình trực tuyến",
