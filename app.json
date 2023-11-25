@@ -117,10 +117,10 @@
         },
         {
           "name": "iMedia - Xem Tivi HD",
-          "versionName": "23032703",
+          "versionName": "23.11.02",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia.23042303-Beta-release.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia-Xem-TV-HD_23.11.02.apk",
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
         },
@@ -229,10 +229,10 @@
       },
       {
         "name": "My TV",
-        "versionName": "3.73.0_452_2212121612",
+        "versionName": "4.14.0_452_2212121612",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV-AndroidTV_4.14.0.apk",
         "note": "THOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
       },
