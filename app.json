@@ -53,6 +53,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/anh1.png"]
         },
         {
+        "name": "FPT Play",
+        "versionName": "7.12.16",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/FPT-Play-AndroidTV_7.12.16.apk",
+        "note": "Cảm ơn bạn đã sử dụng FPT Play for Android TV. Ứng dụng được cập nhật định kỳ và thường xuyên nhằm nâng cao trải nghiệm tốt hơn. ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/anh1.png"]
+        },
+        {
           "name": "TV-Bro",
           "versionName": "1.8.6",
           "type": "Truyền hình trực tuyến",
