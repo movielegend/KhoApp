@@ -278,6 +278,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
       },
       {
+        "name": "FireFox",
+        "versionName": "Luôn là bản Beta mới nhất",
+        "type": " tiện ích ",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFoxTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefoxphaptx5mod.apk",
+        "note": " Trình duyệt lướt web ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFoxTV/anh.png"]
+      },
+      {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
