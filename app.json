@@ -36,16 +36,16 @@
         },
         {
           "name": "BongNgoTV",
-          "versionName": "5.7.3",
+          "versionName": "5.7.4",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/BongNgoTV_5.7.3.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/BongNgoTV_5.7.4.apk",
           "note": "BongNgoTV - Ở đây toàn phim hay. Xem và tải về các bộ phim chiếu rạp với chất lượng HD đầy đủ Vietsub ngay trên điện thoại. Nguồn phim Full HD được tổng hợp ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/anh.png"]
         },
         {
           "name": "FPT Play",
-          "versionName": "7.12.16",
+          "versionName": "7.12.16",    
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT/FPT-Play-AndroidTV_7.12.16.apk",
