@@ -53,6 +53,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
         },
         {
+          "name": "MStore",
+          "versionName": "1.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
+          "note": "kho app",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png"]
+        },
+        {
 
           "name": "TV-Bro",
           "versionName": "1.8.6",
