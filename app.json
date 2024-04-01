@@ -14,7 +14,7 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store_8.2/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store_8.2/DL-Store_8.2.apk",
           "note": "DL Store - IPTV là cửa hàng ứng dụng, truyền hình yêu cầu sử dụng mạng dàng cho cả Điện Thoại Android và TV Android .\n*Lưu ý: Vì một số lí do, người dùng mới phải thêm danh sách mặc định - > vào google gõ : \"list kênh iptv\" để có thể tìm danh sách iptv hoặc liên hệ với tác giả.\n+ Đa ngôn ngữ Multi language (en, ru, zh, hi, co, ca, lo, th, in, km, pt, ja, vi. )\n+ Hỗ chế độ xem Hình trong Hình cho thiết bị có hỗ trợ.\n+ Lưu lại đường link danh sách kênh.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLTivi/anh1.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store_8.2/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store_8.2/anh1.png"]
         },
         {
           "name": "Monster TV",
