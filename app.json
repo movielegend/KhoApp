@@ -356,7 +356,7 @@
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/Kiki-MBLG.apk",
         "note": "Trợ lý Kiki sử dụng trên ô tô, điều khiển bằng giọng nói tiếng Việt\n\"Kiki Auto\" là phiên bản trợ lý Kiki sử dụng trên ô tô. Tính năng điều khiển bằng giọng nói mang lại sự tiện dụng và an toàn khi lái xe. Chỉ bằng một câu nói đơn giản, người dùng có thể \"nhờ\" trợ lý Kiki chỉ đường, bật nhạc, gọi điện thoại, và nhiều tác vụ hữu ích khác.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png"]
       },
       {
         "name": "WifiDisplay",
