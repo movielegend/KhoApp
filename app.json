@@ -296,6 +296,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
       },
       {
+        "name": "CocCocLite",
+        "versionName": "Luôn là bản Beta mới nhất",
+        "type": " tiện ích ",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/CocCocTVLite_1.6.apk",
+        "note": " Trình duyệt lướt web ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh1.png"]
+      },
+      {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
