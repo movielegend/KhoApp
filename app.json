@@ -296,13 +296,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
       },
       {
-        "name": "AptoideTV_5.1.2",
+        "name": "AptoideTV",
         "versionName": "Luôn là bản Beta mới nhất",
         "type": " tiện ích ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV_5.1.2/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV_5.1.2/AptoideTV_5.1.2.apk",
-        "note": " Trình duyệt lướt web ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV_5.1.2/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV_5.1.2/anh2.png"]
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/AptoideTV_5.1.2.apk",
+        "note": " Store tải ứng dụng cho thiết bị của bạn ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/anh2.png"]
       },
       {
         "name": "CocCocLite",
