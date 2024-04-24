@@ -53,16 +53,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh2.png"]
         },
         {
-
-          "name": "TV-Bro",
-          "versionName": "1.8.6",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/TV-Bro_1.8.6.apk",
-          "note": "TV PRO là nguồn phim Full HD được tổng hợp ...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/anh1.png"]
-        },
-        {
           "name": "OTT-Navigator",
           "versionName": "1.7.1.2",
           "type": "Truyền hình trực tuyến",
@@ -265,6 +255,19 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh.png"]
       }
     ]
+    },
+    "browsing":{ "apps":
+    [
+      {
+        "name": "TV-Bro",
+        "versionName": "1.8.6",
+        "type": "Duyệt Web",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/TV-Bro_1.8.6.apk",
+        "note": "TV PRO là nguồn phim Full HD được tổng hợp ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/anh1.png"]
+      }
+    ]tb
     },
     "utilities":{ "apps":
     [
