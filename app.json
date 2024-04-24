@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
         },
         {
+          "name": "K+",
+          "versionName": "11.11",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/K+ HPO_11.11.apk",
+          "note": " ứng dụng app K+ xem trực tiếp bóng đá Ngoại hạng anh , xem phim độc quyền trên truyền hình K+ ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh2.png"]
+        },
+        {
           "name": "MStore",
           "versionName": "1.0",
           "type": "Truyền hình trực tuyến",
