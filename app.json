@@ -256,19 +256,6 @@
       }
     ]
     },
-    "duyệt web":{ "apps":
-    [
-      {
-        "name": "TV-Bro",
-        "versionName": "1.8.6",
-        "type": "Duyệt Web",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/TV-Bro_1.8.6.apk",
-        "note": "TV PRO là nguồn phim Full HD được tổng hợp ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/anh1.png"]
-      }
-    ]
-    },
     "utilities":{ "apps":
     [
       {
@@ -306,6 +293,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/Firefoxphaptx5mod.apk",
         "note": " Trình duyệt lướt web ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
+      },
+      {
+        "name": "TV-Bro",
+        "versionName": "1.8.6",
+        "type": "Duyệt Web",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/TV-Bro_1.8.6.apk",
+        "note": "TV PRO là nguồn phim Full HD được tổng hợp ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/anh1.png"]
       },
       {
         "name": "AptoideTV",
