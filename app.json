@@ -26,7 +26,16 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
         },
         {
-          "name": "BongNgoTV",
+          "name": "VTV GO",
+          "versionName": "10.4.10",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/.apk",
+          "note": "truyền hình  việt nam .",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
+        },
+        {
+          "name": "BongNgoTV"
           "versionName": "5.7.4",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/logo.png",
