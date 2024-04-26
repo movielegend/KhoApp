@@ -13,7 +13,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
-          "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
+          "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tếTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
         },
         {
@@ -30,8 +30,8 @@
           "versionName": "10.4.10",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/.apk",
-          "note": "truyền hình  việt nam .",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/VTV-Go-AndroidTV_10.4.10.apk.apk",
+          "note": "Xem trực tuyến các chương trình, phim, tin tức và video của kênh VTV1, kênh hàng đầu Việt Nam. VTV GO là ứng dụng xem truyền hình trên di động và web, cung cấp nhiều tính năng và nội dung hấp dẫn .",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
         },
         {
