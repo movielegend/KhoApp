@@ -32,7 +32,7 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTV GO/VTV-Go-AndroidTV_10.4.10.apk.apk",
           "note": "Xem trực tuyến các chương trình, phim, tin tức và video của kênh VTV1, kênh hàng đầu Việt Nam. VTV GO là ứng dụng xem truyền hình trên di động và web, cung cấp nhiều tính năng và nội dung hấp dẫn .",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
+          "preview": [,"https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh2.png"]
         },
         {
           "name": "BongNgoTV"
