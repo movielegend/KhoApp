@@ -18,7 +18,7 @@
         },
         {
           "name": "VTVGO",
-          "versionName": "3.2.0",
+          "versionName": "10.4.10",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.4.10.apk",
@@ -226,6 +226,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
         "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
+      },
+      {
+        "name": "WETV",
+        "versionName": "1.0",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WETV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WETV/WeTV_ Asian.apk",
+        "note": "WeTV vừa là nhà sản xuất vừa là nhà cung cấp dịch vụ video chất lượng cao toàn cầu. Có các bộ phim truyền hình , phim điện ảnh, chương trình tạp kỹ và hoạt hình nổi tiếng mới nhất. Video HD.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WETV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WETV/anh2.png"]
       },
       {
         "name": "My TV",
