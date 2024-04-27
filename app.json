@@ -39,9 +39,18 @@
           "versionName": "5.7.4",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/BongNgoTV_5.7.4.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/SCTVOnline-ATV_3.4.12.84191.apk",
           "note": "BongNgoTV - Ở đây toàn phim hay. Xem và tải về các bộ phim chiếu rạp với chất lượng HD đầy đủ Vietsub ngay trên điện thoại. Nguồn phim Full HD được tổng hợp ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/anh.png"]
+        },
+        {
+          "name": "SCTVOnline-ATV",
+          "versionName": "3.4.12",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/SCTVOnline-ATV_3.4.12.84191.apk",
+          "note": "SCTVOnline là ứng dụng giải trí đa nền tảng hiện đại với nội dung phong phú, đa dạng và luôn được cập nhật nhanh chóng. Ứng dụng mang đến cho khán giả những chương trình giải trí đỉnh cao ...\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh2.png"]
         },
         {
           "name": "FPT Play",
