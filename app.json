@@ -174,6 +174,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
       {
+        "name": "⚽ Sport TV",
+        "versionName": "4.2",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportsTV_4.2 ( xem tv, đá bóng ).apk",
+        "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh.png"]
+      },
+      {
         "name": "Netflix_FHD",
         "versionName": "Netflix_2.77",
         "type": "Giải Trí",
@@ -201,13 +210,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
       },
       {
-        "name": "SmartTube Next(Beta)",
+        "name": "YoutubechặnQC",
         "versionName": "Luôn là bản Beta mới nhất",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/beta.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/beta.png",
         "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
         "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh1.png"]
       },
       {
         "name": "TikTok TV",
@@ -217,15 +226,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/TikTok_TV.apk",
         "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
-      },
-      {
-        "name": "⚽ Sport TV",
-        "versionName": "4.2",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportsTV_4.2 ( xem tv, đá bóng ).apk",
-        "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh.png"]
       },
       {
         "name": "Vebo TV",
