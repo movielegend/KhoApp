@@ -165,6 +165,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_17.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_16.png"]
       },
       {
+        "name": "YoutubechặnQC",
+        "versionName": "Luôn là bản Beta mới nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/beta.png",
+        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
+        "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh1.png"]
+      },
+      {
         "name": "GalaxyPlay",
         "versionName": "3.10.10",
         "type": "Giải Trí",
@@ -210,13 +219,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
       },
       {
-        "name": "YoutubechặnQC",
-        "versionName": "Luôn là bản Beta mới nhất",
+        "name": "GalaxyPlay",
+        "versionName": "3.10.10",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/beta.png",
-        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
-        "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh1.png"]
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.10.apk",
+        "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
       {
         "name": "TikTok TV",
