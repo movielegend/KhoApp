@@ -450,6 +450,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
         "note": "YouTube Kids mang đến một môi trường an toàn hơn để trẻ khám phá YouTube cũng như giúp cha mẹ và người chăm sóc dễ dàng hướng dẫn trẻ trên hành trình học ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
+      },
+      {
+        "name": "Pikachu",
+        "versionName": "1.12.02",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/Pikachu 2003 classic_1.3.apk",
+        "note": "Pikachu là tựa game giải trí ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/anh2.png"]
       }
     ]
     }
