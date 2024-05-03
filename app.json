@@ -459,6 +459,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/Pikachu 2003 classic_1.3.apk",
         "note": "Pikachu là tựa game giải trí ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/anh2.png"]
+      },
+      {
+        "name": "Chicken",
+        "versionName": "1.30",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/Chicken Invaders 5_1.30.apk",
+        "note": "Pikachu là tựa game giải trí ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh2.png"]
       }
     ]
     }
