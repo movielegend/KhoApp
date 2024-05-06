@@ -26,15 +26,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
         },
         {
-          "name": "BongNgoTV",
-          "versionName": "5.7.4",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/BongNgoTV_5.7.4.apk",
-          "note": "BongNgoTV - Ở đây toàn phim hay. Xem và tải về các bộ phim chiếu rạp với chất lượng HD đầy đủ Vietsub ngay trên điện thoại. Nguồn phim Full HD được tổng hợp ...\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/anh.png"]
-        },
-        {
           "name": "SCTVOnline-ATV",
           "versionName": "3.4.12",
           "type": "Truyền hình trực tuyến",
@@ -174,13 +165,22 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh2.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh1.png"]
       },
       {
-        "name": "GalaxyPlay",
-        "versionName": "3.10.10",
+        "name": "BongNgoTV",
+        "versionName": "5.7.4",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.10.apk",
-        "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/BongNgoTV_5.7.4.apk",
+        "note": "BongNgoTV - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/anh.png"]
+      },
+      {
+        "name": "Phim4k",
+        "versionName": "2.3.6",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4k/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4k/Phim-4K_2.3.6.apk",
+        "note": " Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub . Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4k/anh1.png"]
       },
       {
         "name": "⚽ Sport TV",
