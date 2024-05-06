@@ -246,15 +246,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
       },
       {
-        "name": "WeTV",
-        "versionName": "1.4.0",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/WeTV-TV version_1.4.0.apk",
-        "note": "WeTV vừa là nhà sản xuất vừa là nhà cung cấp dịch vụ video chất lượng cao toàn cầu.Có các bộ phim truyền hình , phim điện ảnh, chương trình tạp kỹ và hoạt hình nổi tiếng mới nhất. Video HD.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/anh2.png"]
-      },
-      {
         "name": "My TV",
         "versionName": "4.25.0",
         "type": "Giải Trí",
