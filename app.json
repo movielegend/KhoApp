@@ -228,6 +228,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
       {
+        "name": "WeTV",
+        "versionName": "1.4.0",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/WeTV-TV version_1.4.0.apk",
+        "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/anh2.png"]
+      },
+      {
         "name": "TikTok TV",
         "versionName": "11.9.10",
         "type": "Giải Trí",
