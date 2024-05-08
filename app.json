@@ -421,6 +421,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/anh.png"]
       },
       {
+        "name": "Tìm kiếm giọng nói Google",
+        "versionName": "v.1.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/Tìm kiếm giọng nói (com.xiaomi.voice) [v.1.0].apk",
+        "note": " Tính năng tìm kiếm giọng nói đã được tích hợp sẵn trên Google Chrome thông qua công cụ tìm kiếm Google.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh1.png"]
+      },
+      {
         "name": "Kiki-MBLG",
         "versionName": "23.06.02",
         "type": "Tiện ích",
