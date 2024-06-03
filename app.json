@@ -304,6 +304,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
       },
       {
+        "name": "trình Chiếu Web",
+        "versionName": "2.2.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/Airscreen_2.2.0.apk",
+        "note": "ỨNG DỤNG này giúp chúng ta có thể phát trình chiếu web, hoặc 1 nội dung nào đó từ điện thoại lên Máy Chiếu mượt mà hơn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh2.png"]
+      },
+      {
         "name": "MStore",
         "versionName": "1.0",
         "type": "Tiện ích",
