@@ -89,13 +89,13 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh.png"]
         },
         {
-          "name": "Projectivy_Launcher",
+          "name": "Đổi Giao Diện Projectivy",
           "versionName": "V4.24",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Projectivy_Launcher/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Projectivy_Launcher/Projectivy_Launcher_v4.24_Mod.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/Projectivy_Launcher_v4.24_Mod.apk",
           "note": " Projectivy Launcher là một trình khởi chạy thay thế dành cho Android TV, phù hợp với nhu cầu của TV và máy chiếu của bạn: mượt mà, gọn gàng ",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Projectivy_Launcher/anh.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/anh.png"]
         },
         {
           "name": "THVLi",
@@ -107,15 +107,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/anh.png"]
         },
         {
-          "name": "HBO_Go",
-          "versionName": "V4.24",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/HBO_GO_Android_TV_v21_0_0_161.apk",
-          "note": " HBO (Home Box Office) là kênh truyền hình của Mỹ, chiếu phim và thể thao, ... nổi tiếng nhất thế giới như Columbia Tristar, DreamWorks, Paramount Pictures, ... ",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HBO_Go/anh.png"]
-        },
-        {
           "name": "Monster TV",
           "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
@@ -123,15 +114,6 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
           "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
-        },
-        {
-          "name": "TiviMate",
-          "versionName": "2.8.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/TiviMate_TV.apk",
-          "note": "TiviMate là ứng dụng xem truyền hình IPTV tối ưu tốt cho Android TV và TV Box, với rất nhiều tính năng tiện dụng được tích hợp sẵn, chăc chắn sẽ làm bạn hài lòng.\nYêu cầu: Android 5.0 trở lên.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TiviMate/anh1.png"]
         },
         {
           "name": "TV360",
@@ -367,13 +349,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
       },
       {
-        "name": "emotn",
+        "name": "Đổi Giao Diện Emotn",
         "versionName": "1.0.89",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/emotn.apk",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/emotn.apk",
         "note": "Emotn UI là một ứng dụng dành cho máy tính để bàn được phát triển cho các thiết bị Android TV. Nó có lợi thế là chi phí",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emotn/anh2.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh2.png"]
       },
       {
         "name": "CastReceiver",
@@ -392,15 +374,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
         "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
-      },
-      {
-        "name": "VLC",
-        "versionName": "3.5.4",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/VLC_3.5.4.apk",
-        "note": "VLC media player (thường gọi tắt là VLC) là một media player và streaming ... trên toàn thế giới và được điều phối bởi VideoLAN.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh.png"]
       },
       {
         "name": "LeanKey Keyboard Pro",
@@ -459,15 +432,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
         "note": "YouTube Kids mang đến một môi trường an toàn hơn để trẻ khám phá YouTube cũng như giúp cha mẹ và người chăm sóc dễ dàng hướng dẫn trẻ trên hành trình học ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
-      },
-      {
-        "name": "Pikachu",
-        "versionName": "1.2",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/Pikachu 2003 classic_1.2.apk",
-        "note": "Pikachu là tựa game giải trí, dùng khiển chuột để chơi ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Pikachu/anh2.png"]
       },
       {
         "name": "Chicken",
