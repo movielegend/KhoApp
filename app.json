@@ -295,15 +295,6 @@
     "utilities":{ "apps":
     [
       {
-        "name": "AirScreen",
-        "versionName": "2.2.0",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/Airscreen_2.2.0.apk",
-        "note": "AirScreen là bộ thu phát trực tuyến không dây tiên tiến nhất cho AirPlay, Chromecast, Miracast * và DLNA. Nó có thể cho phép thiết bị của bạn thu phản chiếu màn hình, ảnh, nhạc, video và các phương tiện khác từ điện thoại, máy tính bảng, máy tính xách tay và hơn thế nữa qua Wi-Fi hoặc Ethernet, cho phép bạn trải nghiệm niềm vui khi chia sẻ hầu hết mọi thứ với gia đình và bạn bè của mình trên một màn hình lớn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
-      },
-      {
         "name": "trình Chiếu Web",
         "versionName": "2.2.0",
         "type": "Tiện ích",
