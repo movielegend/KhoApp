@@ -8,15 +8,6 @@
     "tivi":{ "apps":
       [
         {
-          "name": "VTVGO",
-          "versionName": "10.4.10",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.4.10.apk",
-          "note": "Xem trực tuyến các chương trình, phim, tin tức và video của kênh VTV, kênh hàng đầu Việt Nam. VTV GO là ứng dụng xem truyền hình trên di động và web, cung cấp nhiều tính năng và nội dung hấp dẫn",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
-        },
-        {
           "name": "⚽ Sport TV",
           "versionName": "4.2",
           "type": "Giải Trí",
@@ -33,6 +24,15 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
           "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
+        },
+        {
+          "name": "VTVGO",
+          "versionName": "10.4.10",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.4.10.apk",
+          "note": "Xem trực tuyến các chương trình, phim, tin tức và video của kênh VTV, kênh hàng đầu Việt Nam. VTV GO là ứng dụng xem truyền hình trên di động và web, cung cấp nhiều tính năng và nội dung hấp dẫn",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
         },
         {
           "name": "iMedia - Xem Tivi HD",
@@ -262,15 +262,6 @@
     },
     "additional features":{ "apps":
     [
-      {
-        "name": "Chicken",
-        "versionName": "1.30",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/Chicken Invaders 5_1.30.apk",
-        "note": "Pikachu là tựa game giải trí, dùng khiển chuột để chơi ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh2.png"]
-      },
     ]
     }
   }
