@@ -241,6 +241,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh1.png"]
       },
       {
+        "name": "MStore",
+        "versionName": "1.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
+        "note": "kho app",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
+      },
+      {
         "name": "TeamViewer QuickSupport",
         "versionName": "15.35.156",
         "type": "Tiện ích",
@@ -251,7 +260,7 @@
       }
     ]
     },
-    "entertainment":{ "apps":
+    "additional features":{ "apps":
     [
       {
         "name": "Chicken",
@@ -261,15 +270,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/Chicken Invaders 5_1.30.apk",
         "note": "Pikachu là tựa game giải trí, dùng khiển chuột để chơi ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh2.png"]
-      },
-      {
-        "name": "MStore",
-        "versionName": "1.0",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
-        "note": "kho app",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
       }
     ]
     }
