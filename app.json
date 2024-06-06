@@ -93,6 +93,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4K/anh1.png"]
       },
       {
+        "name": "Netflix_Trắng",
+        "versionName": "Netflix_2.7 - Trắng",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_TV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_TV/Netflix_2.7.apk",
+        "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_TV/anh.png"]
+      },
+      {
         "name": "GalaxyPlay",
         "versionName": "3.10.10",
         "type": "Giải Trí",
@@ -120,6 +129,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       },
       {
+        "name": "SmartTube Next(Stable)",
+        "versionName": "Luôn là bản Stable mới nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/Stable.png",
+        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
+        "note": " đây là áp youtube được chặn Quảng Cáo ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
+      },
+      {
         "name": "smarttube(giọng nói)",
         "versionName": "Luôn là bản Beta mới nhất",
         "type": "Giải Trí",
@@ -129,39 +147,12 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube(giọng nói)/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube(giọng nói)/anh2.png"]
       },
       {
-        "name": "Netflix_Trắng",
-        "versionName": "Netflix_2.7 - Trắng",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_TV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_TV/Netflix_2.7.apk",
-        "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_TV/anh.png"]
-      },
-      {
-        "name": "YouTube",
-        "versionName": "2.02.14",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/LogoYoutube.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/youtubeF.apk",
-        "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_17.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_16.png"]
-      },
-      {
-        "name": "SmartTube Next(Stable)",
-        "versionName": "Luôn là bản Stable mới nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/Stable.png",
-        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
-        "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
-      },
-      {
         "name": "YoutubechặnQC",
         "versionName": "Luôn là bản Beta mới nhất",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/beta.png",
         "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
-        "note": "SmartTube (trước đây là SmartTubeNext) là một ứng dụng YouTube nâng cao dành cho Android TV và TV box , mã nguồn mở và miễn phí. Nó không phải là ứng dụng khách truyền hình trực tiếp và không hỗ trợ \"YouTube TV\" .\n\n✅ Các tính năng : không có quảng cáo ‧ SponsorBlock ‧ tốc độ phát lại có thể điều chỉnh ‧ hỗ trợ 8k ‧ 60 khung hình/giây ‧ HDR ‧ đọc cuộc trò chuyện trực tiếp ‧ các nút có thể tùy chỉnh ‧ không có Dịch vụ của Google ‧ cộng đồng quốc tế hữu ích",
+        "note": " đây là áp youtube được chặn Quảng Cáo ",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh2.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh3.png"]
       },
       {
@@ -205,6 +196,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh2.png"]
       },
       {
+        "name": "AirPin(PRO)",
+        "versionName": "5.0.2",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
+        "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
+      },
+      {
         "name": "MStore",
         "versionName": "1.0",
         "type": "Tiện ích",
@@ -212,15 +212,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
         "note": "kho app",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
-      },
-      {
-        "name": "AirPin(PRO)",
-        "versionName": "5.0.2",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
-        "note": "Airpin Pro Apk là một ứng dụng Airplay hoặc DLNA Recover dành cho điện thoại di động Android. Thông qua ứng dụng di động này, người dùng có thể dễ dàng kết nối ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
       },
       {
         "name": "Đổi Giao Diện Emotn",
