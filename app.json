@@ -205,31 +205,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
       },
       {
-        "name": "MStore",
-        "versionName": "1.0",
+        "name": "WifiDisplay",
+        "versionName": "Đang Update",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
-        "note": "kho app",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
-      },
-      {
-        "name": "Đổi Giao Diện Emotn",
-        "versionName": "1.0.89",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/emotn.apk",
-        "note": "Emotn UI là một ứng dụng dành cho máy tính để bàn được phát triển cho các thiết bị Android TV. Nó có lợi thế là chi phí",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh2.png"]
-      },
-      {
-        "name": "Đổi Giao Diện Projectivy",
-        "versionName": "V4.24",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/Projectivy_Launcher_v4.24_Mod.apk",
-        "note": " Projectivy Launcher là một trình khởi chạy thay thế dành cho Android TV, phù hợp với nhu cầu của TV và máy chiếu của bạn: mượt mà, gọn gàng ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/anh.png"]
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
+        "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh.jpg"]
       },
       {
         "name": "FastCast TV",
@@ -241,15 +223,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
       },
       {
-        "name": "Tìm kiếm giọng nói Google",
-        "versionName": "v.1.0",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/Tìm kiếm giọng nói (com.xiaomi.voice) [v.1.0].apk",
-        "note": " Tính năng tìm kiếm giọng nói đã được tích hợp sẵn trên Google Chrome thông qua công cụ tìm kiếm Google.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh1.png"]
-      },
-      {
         "name": "Kiki-MBLG",
         "versionName": "23.06.02",
         "type": "Tiện ích",
@@ -259,13 +232,22 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png"]
       },
       {
-        "name": "WifiDisplay",
-        "versionName": "Đang Update",
+        "name": "Tìm kiếm giọng nói Google",
+        "versionName": "v.1.0",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
-        "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh.jpg"]
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/Tìm kiếm giọng nói (com.xiaomi.voice) [v.1.0].apk",
+        "note": " Tính năng tìm kiếm giọng nói đã được tích hợp sẵn trên Google Chrome thông qua công cụ tìm kiếm Google.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh1.png"]
+      },
+      {
+        "name": "MStore",
+        "versionName": "1.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
+        "note": "kho app",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
       },
       {
         "name": "TeamViewer QuickSupport",
@@ -278,7 +260,7 @@
       }
     ]
     },
-    "childre":{ "apps":
+    "additional features":{ "apps":
     [
       {
         "name": "Chicken",
