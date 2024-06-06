@@ -17,13 +17,13 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
         },
         {
-          "name": "VieON",
-          "versionName": "30.5.6",
+          "name": "Monster TV",
+          "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON-for-AndroidTV_30.5.6.apk",
-          "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
+          "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
         },
         {
           "name": "SCTVOnline-ATV",
@@ -43,15 +43,7 @@
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
         },
-        {
-          "name": "FPT Play",
-          "versionName": "7.14.19",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT-Play-AndroidTV_7.14.19.apk",
-          "note": "Cảm ơn bạn đã sử dụng FPT Play for Android TV. Ứng dụng được cập nhật định kỳ và thường xuyên nhằm nâng cao trải nghiệm tốt hơn. ...\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
-        },
+
         {
           "name": "OTT-Navigator",
           "versionName": "1.7.1.2",
@@ -60,24 +52,6 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.7.1.2_Mod.apk",
           "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
-        },
-        {
-          "name": "Đổi Giao Diện Projectivy",
-          "versionName": "V4.24",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/Projectivy_Launcher_v4.24_Mod.apk",
-          "note": " Projectivy Launcher là một trình khởi chạy thay thế dành cho Android TV, phù hợp với nhu cầu của TV và máy chiếu của bạn: mượt mà, gọn gàng ",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/anh.png"]
-        },
-        {
-          "name": "Monster TV",
-          "versionName": "3.2.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/MonsterTV.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
-          "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
         },
         ]
       },
@@ -91,6 +65,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/youtubeF.apk",
         "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_17.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/Screenshot_16.png"]
+      },
+      {
+        "name": "VieON",
+        "versionName": "30.5.6",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON-for-AndroidTV_30.5.6.apk",
+        "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
       },
       {
         "name": "smarttube(giọng nói)",
@@ -163,6 +146,24 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.10.apk",
         "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
+      },
+      {
+        "name": "VieON",
+        "versionName": "30.5.6",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON-for-AndroidTV_30.5.6.apk",
+        "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
+      },
+      {
+        "name": "FPT Play",
+        "versionName": "7.14.19",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT-Play-AndroidTV_7.14.19.apk",
+        "note": "Cảm ơn bạn đã sử dụng FPT Play for Android TV. Ứng dụng được cập nhật định kỳ và thường xuyên nhằm nâng cao trải nghiệm tốt hơn. ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       },
       {
         "name": "TikTok TV",
@@ -239,6 +240,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/emotn.apk",
         "note": "Emotn UI là một ứng dụng dành cho máy tính để bàn được phát triển cho các thiết bị Android TV. Nó có lợi thế là chi phí",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh2.png"]
+      },
+      {
+        "name": "Đổi Giao Diện Projectivy",
+        "versionName": "V4.24",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/Projectivy_Launcher_v4.24_Mod.apk",
+        "note": " Projectivy Launcher là một trình khởi chạy thay thế dành cho Android TV, phù hợp với nhu cầu của TV và máy chiếu của bạn: mượt mà, gọn gàng ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/anh.png"]
       },
       {
         "name": "FastCast TV",
