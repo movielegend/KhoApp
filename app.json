@@ -251,7 +251,7 @@
       }
     ]
     },
-    "additional features":{ "apps":
+    "entertainment":{ "apps":
     [
       {
         "name": "Chicken",
@@ -265,7 +265,7 @@
       {
         "name": "MStore",
         "versionName": "1.0",
-        "type": "Tiện ích",
+        "type": "Danh cho trẻ em",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
         "note": "kho app",
