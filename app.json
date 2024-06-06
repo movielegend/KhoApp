@@ -17,6 +17,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
         },
         {
+          "name": "⚽ Sport TV",
+          "versionName": "4.2",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportsTV_4.3.apk",
+          "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh.png"]
+        },
+        {
           "name": "Monster TV",
           "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
@@ -24,15 +33,6 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
           "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
-        },
-        {
-          "name": "SCTVOnline-ATV",
-          "versionName": "3.4.12",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/SCTVOnline-ATV_3.4.12.84191.apk",
-          "note": "SCTVOnline là ứng dụng giải trí đa nền tảng hiện đại với nội dung phong phú, đa dạng và luôn được cập nhật nhanh chóng. Ứng dụng mang đến cho khán giả những chương trình giải trí đỉnh cao ...\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh2.png"]
         },
         {
           "name": "iMedia - Xem Tivi HD",
@@ -43,7 +43,15 @@
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
         },
-
+        {
+          "name": "SCTVOnline-ATV",
+          "versionName": "3.4.12",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/SCTVOnline-ATV_3.4.12.84191.apk",
+          "note": "SCTVOnline là ứng dụng giải trí đa nền tảng hiện đại với nội dung phong phú, đa dạng và luôn được cập nhật nhanh chóng. Ứng dụng mang đến cho khán giả những chương trình giải trí đỉnh cao ...\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh2.png"]
+        },
         {
           "name": "OTT-Navigator",
           "versionName": "1.7.1.2",
@@ -110,15 +118,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4K/Phim-4K_2.4.1.apk",
         "note": " Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub . Nguồn phim Full HD được tổng hợp ...\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4K/anh1.png"]
-      },
-      {
-        "name": "⚽ Sport TV",
-        "versionName": "4.2",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportsTV_4.3.apk",
-        "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh.png"]
       },
       {
         "name": "Netflix_Trắng",
