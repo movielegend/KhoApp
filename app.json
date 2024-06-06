@@ -260,7 +260,7 @@
       }
     ]
     },
-    "utilities":{ "apps":
+    "children":{ "apps":
     [
       {
         "name": "Chicken",
