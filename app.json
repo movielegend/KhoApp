@@ -262,6 +262,15 @@
     },
     "additional features":{ "apps":
     [
+      {
+        "name": "MStore",
+        "versionName": "1.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
+        "note": "kho app",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
+      },
     ]
     }
   }
