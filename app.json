@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
         },
         {
+          "name": "Vebo TV",
+          "versionName": "1.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
+          "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
+        },
+        {
           "name": "SCTVOnline-ATV",
           "versionName": "3.4.12",
           "type": "Truyền hình trực tuyến",
@@ -163,15 +172,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/TikTok_TV.apk",
         "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
-      },
-      {
-        "name": "Vebo TV",
-        "versionName": "1.0",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
-        "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
       },
       {
         "name": "Spotify",
