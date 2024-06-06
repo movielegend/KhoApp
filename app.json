@@ -53,15 +53,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
         },
         {
-          "name": "K+",
-          "versionName": "11.11",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/K+ HPO_11.11.apk",
-          "note": " ứng dụng app K+ xem trực tiếp bóng đá Ngoại hạng anh , xem phim độc quyền trên truyền hình K+ ...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh2.png"]
-        },
-        {
           "name": "OTT-Navigator",
           "versionName": "1.7.1.2",
           "type": "Truyền hình trực tuyến",
@@ -69,24 +60,6 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.7.1.2_Mod.apk",
           "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
-        },
-        {
-          "name": "Hi TV",
-          "versionName": "30.1.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HITV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HITV/HiTV_movie.apk",
-          "note": " Tại HiTV, có những bộ phim đặc sắc cực hot. Chúng tôi luôn cập nhật liên tục các phim mới. Phim bộ Hàn Quốc, Trung Quốc, những bộ phim kinh điển, phim mới nhất, ...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HITV/anh.png"]
-        },
-        {
-          "name": "iQIYI",
-          "versionName": "Đang Cập Nhật",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI_movie.apk",
-          "note": " iQIYI · Tải xuống miễn phí - xem mọi lúc mọi nơi. · Xem nhiều phim trực tuyến hình ảnh chất lượng cao bản gốc lượng lớn ",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh.png"]
         },
         {
           "name": "Đổi Giao Diện Projectivy",
@@ -98,15 +71,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Projectivy/anh.png"]
         },
         {
-          "name": "THVLi",
-          "versionName": "V4.24",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/THVLi_2.1.0 Mod HPO.apk",
-          "note": " Đài Phát thanh - Truyền hình Vĩnh Long ; THVL · Việt Nam · 2 tháng 9 năm 1977; 45 năm trước (1977-09-02) · Toàn thế giới (qua THVLi) · tháng 4 năm 1977; 46 năm trước ... ",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/THVLi/anh.png"]
-        },
-        {
           "name": "Monster TV",
           "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
@@ -115,15 +79,6 @@
           "note": "Xem gần 200 kênh Truyền hình trong nước và quốc tế\n\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\n\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png"]
         },
-        {
-          "name": "TV360",
-          "versionName": "3.7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_3.7.apk",
-          "note": "Tất cả đều có trên ứng dụng TV360:\n• Gần 200 kênh truyền hình K+, VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương.\n\n• Trực tiếp bóng đá Premier League, Champion League, Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png"]
-        }
         ]
       },
     "entertainment":{ "apps":
@@ -210,15 +165,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
       {
-        "name": "WeTV",
-        "versionName": "1.4.0",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/WeTV-TV version_1.4.0.apk",
-        "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WeTV/anh2.png"]
-      },
-      {
         "name": "TikTok TV",
         "versionName": "11.9.10",
         "type": "Giải Trí",
@@ -235,24 +181,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
         "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
-      },
-      {
-        "name": "My TV",
-        "versionName": "4.25.0",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV-AndroidTV_4.25.0.apk",
-        "note": "THOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
-      },
-      {
-        "name": "Nhac Cua Tui",
-        "versionName": "5.1.3",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NhacCuaTui/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NhacCuaTui/NhacCuaTuiTV.apk",
-        "note": "NhacCuaTui TV \nYêu cầu: TV / Box\nTổng quan: NhacCuaTui TV là ứng dụng nghe nhạc và xem video trực tuyến hoàn toàn miễn phí trên TV. Với hàng triệu bài hát, video chọn lọc được cập nhật liên tục, giúp bạn dễ dàng tìm kiếm những bài hát mà mình yêu thích. ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NhacCuaTui/anh.png"]
       },
       {
         "name": "Spotify",
@@ -295,51 +223,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
       },
       {
-        "name": "DL-Store",
-        "versionName": "10.0",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store/DLStore_10.0.apk",
-        "note": "DL Store - IPTV là cửa hàng ứng dụng, truyền hình yêu cầu sử dụng mạng dàng cho cả Điện Thoại Android và TV Android .\n*Lưu ý: Vì một số lí do, người dùng mới phải thêm danh sách mặc định - > vào google gõ : \"list kênh iptv\" để có thể tìm danh sách iptv hoặc liên hệ với tác giả.\n+ Đa ngôn ngữ Multi language (en, ru, zh, hi, co, ca, lo, th, in, km, pt, ja, vi. )\n+ Hỗ chế độ xem Hình trong Hình cho thiết bị có hỗ trợ.\n+ Lưu lại đường link danh sách kênh.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DL-Store/anh1.png"]
-      },
-      {
-        "name": "FireFox",
-        "versionName": "Luôn là bản Beta mới nhất",
-        "type": " tiện ích ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/Firefoxphaptx5mod.apk",
-        "note": " Trình duyệt lướt web ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FireFox/anh.png"]
-      },
-      {
-        "name": "TV-Bro",
-        "versionName": "1.8.6",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/TV-Bro_1.8.6.apk",
-        "note": "TV PRO ứng dụng lướt web  ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV-Bro/anh1.png"]
-      },
-      {
-        "name": "AptoideTV",
-        "versionName": "Luôn là bản Beta mới nhất",
-        "type": " tiện ích ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/AptoideTV_5.1.2.apk",
-        "note": " Store tải ứng dụng cho thiết bị của bạn ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/anh2.png"]
-      },
-      {
-        "name": "CocCocLite",
-        "versionName": "Luôn là bản Beta mới nhất",
-        "type": " tiện ích ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/CocCoc-TV-Lite_1.6.apk",
-        "note": " Trình duyệt lướt web ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CocCocLite/anh1.png"]
-      },
-      {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
@@ -358,15 +241,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Đổi Giao Diện Emotn/anh2.png"]
       },
       {
-        "name": "CastReceiver",
-        "versionName": "1.1.5",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/CastReceiver_1.5.5.apk",
-        "note": "CastReceiver là Bộ thu truyền màn hình. Nó cho phép bạn phản chiếu điện thoại Android hoặc Tab Chrome của bạn với bất kỳ hộp Android nào chạy CastReceiver.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CastReceiver/anh.png"]
-      },
-      {
         "name": "FastCast TV",
         "versionName": "2.09.221014",
         "type": "Tiện ích",
@@ -374,15 +248,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
         "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
-      },
-      {
-        "name": "LeanKey Keyboard Pro",
-        "versionName": "22.06.07_vi-dinhlap",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/LeanKeyKeyboardPro.apk",
-        "note": "Một số lượng lớn các hộp giải mã tín hiệu thiếu bàn phím tốt. Ứng dụng này nhằm khắc phục sự cố như vậy.\n\nĐặc trưng:\n- Hỗ trợ kiểu gõ tiếng việt\n- Hỗ trợ điều khiển từ xa đơn giản\n- Có bố cục cho hầu hết mọi ngôn ngữ\n- Hỗ trợ phím tắt bổ sung (ví dụ: menu).",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/LeanKeyKeyboard/anh.png"]
       },
       {
         "name": "Tìm kiếm giọng nói Google",
@@ -424,15 +289,6 @@
     },
     "childre":{ "apps":
     [
-      {
-        "name": "YouTube Kids TV",
-        "versionName": "1.12.02",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
-        "note": "YouTube Kids mang đến một môi trường an toàn hơn để trẻ khám phá YouTube cũng như giúp cha mẹ và người chăm sóc dễ dàng hướng dẫn trẻ trên hành trình học ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
-      },
       {
         "name": "Chicken",
         "versionName": "1.30",
