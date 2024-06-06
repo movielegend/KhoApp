@@ -280,7 +280,24 @@
     },
     "childre":{ "apps":
     [
-
+      {
+        "name": "YouTube Kids TV",
+        "versionName": "1.12.02",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/Youtubetvkids.apk",
+        "note": "YouTube Kids mang đến một môi trường an toàn hơn để trẻ khám phá YouTube cũng như giúp cha mẹ và người chăm sóc dễ dàng hướng dẫn trẻ trên hành trình học ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubetvKids/anh.png", "anh2"]
+      },
+      {
+        "name": "Chicken",
+        "versionName": "1.30",
+        "type": "Danh cho trẻ em",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/Chicken Invaders 5_1.30.apk",
+        "note": "Pikachu là tựa game giải trí, dùng khiển chuột để chơi ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh2.png"]
+      }
     ]
     }
   }
