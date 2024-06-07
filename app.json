@@ -61,15 +61,6 @@
           "note": "SCTVOnline là ứng dụng giải trí đa nền tảng hiện đại với nội dung phong phú, đa dạng và luôn được cập nhật nhanh chóng. Ứng dụng mang đến cho khán giả những chương trình giải trí đỉnh cao ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh2.png"]
         },
-        {
-          "name": "OTT-Navigator",
-          "versionName": "1.7.1.2",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.7.1.2_Mod.apk",
-          "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
-        },
         ]
       },
     "entertainment":{ "apps":
@@ -145,33 +136,6 @@
         "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
         "note": " đây là áp youtube được chặn Quảng Cáo ",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh2.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/YoutubechặnQC/anh3.png"]
-      },
-      {
-        "name": "TikTok TV",
-        "versionName": "11.9.10",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/TikTok_TV.apk",
-        "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
-      },
-      {
-        "name": "Spotify",
-        "versionName": "1.59.3",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/SpotifyADS.Removed.apk",
-        "note": "Với Spotify trên TV, bạn có thể thưởng thức tất cả nhạc và podcast mình thích, ngay trên màn hình lớn. Lướt qua trang nghệ sĩ, album, bài hát và playlist cũng như xem trang nghệ sĩ và ảnh bìa đẹp lộng lẫy cỡ màn hình TV. Điều khiển phát bằng điều khiển TV hoặc bằng Spotify Connect trên điện thoại hay máy tính bảng của bạn. Bạn thậm chí có thể chuyển qua lại giữa hai thiết bị để tận hưởng trải nghiệm hoàn toàn liền mạch.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh.png"]
-      },
-      {
-        "name": "Zing Mp3",
-        "versionName": "20.06.01",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/zingmp3TVmod.apk",
-        "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh.png"]
       }
     ]
     },
@@ -214,6 +178,33 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
       },
       {
+        "name": "TikTok TV",
+        "versionName": "11.9.10",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/TikTok_TV.apk",
+        "note": "Khám phá những nội dung thịnh hành trên thế giới -- từ các video nhạc đình đám cho đến các nội dung nổi bật về trò chơi, thể dục.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
+      },
+      {
+        "name": "Spotify",
+        "versionName": "1.59.3",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/SpotifyADS.Removed.apk",
+        "note": "Với Spotify trên TV, bạn có thể thưởng thức tất cả nhạc và podcast mình thích, ngay trên màn hình lớn. Lướt qua trang nghệ sĩ, album, bài hát và playlist cũng như xem trang nghệ sĩ và ảnh bìa đẹp lộng lẫy cỡ màn hình TV. Điều khiển phát bằng điều khiển TV hoặc bằng Spotify Connect trên điện thoại hay máy tính bảng của bạn. Bạn thậm chí có thể chuyển qua lại giữa hai thiết bị để tận hưởng trải nghiệm hoàn toàn liền mạch.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh.png"]
+      },
+      {
+        "name": "Zing Mp3",
+        "versionName": "20.06.01",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/zingmp3TVmod.apk",
+        "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh.png"]
+      },
+      {
         "name": "Kiki-MBLG",
         "versionName": "23.06.02",
         "type": "Tiện ích",
@@ -230,6 +221,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/Tìm kiếm giọng nói (com.xiaomi.voice) [v.1.0].apk",
         "note": " Tính năng tìm kiếm giọng nói đã được tích hợp sẵn trên Google Chrome thông qua công cụ tìm kiếm Google.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh1.png"]
+      },
+      {
+        "name": "OTT-Navigator",
+        "versionName": "1.7.1.2",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.7.1.2_Mod.apk",
+        "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
       },
       {
         "name": "MStore",
