@@ -129,15 +129,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       },
       {
-        "name": "SmartTube Next(Stable)",
-        "versionName": "Luôn là bản Stable mới nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/Stable.png",
-        "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
-        "note": " đây là áp youtube được chặn Quảng Cáo ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTube/anh1.png"]
-      },
-      {
         "name": "smarttube(giọng nói)",
         "versionName": "Luôn là bản Beta mới nhất",
         "type": "Giải Trí",
