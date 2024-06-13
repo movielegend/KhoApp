@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
         },
         {
+          "name": "TV360",
+          "versionName": "4.2",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-Truyền hình trực tuyến_4.2.apk",
+          "note": " TV360 xem truyền hình, các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png"]
+        },
+        {
           "name": "Vebo TV",
           "versionName": "1.0",
           "type": "Giải Trí",
