@@ -53,12 +53,12 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
         },
         {
-          "name": "SCTVOnline-ATV",
+          "name": "SCTVOnline",
           "versionName": "3.4.12",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/SCTVOnline-ATV_3.4.12.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline-ATV/anh2.png"]
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_3.4.12.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
         }
         ]
       },
