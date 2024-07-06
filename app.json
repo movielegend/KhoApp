@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh2.png"]
         },
         {
+          "name": "VTVGO",
+          "versionName": "ổn định nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.6.15.apk",
+          "note": " TV360 xem truyền hình, các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
+        },
+        {
           "name": "Vebo TV",
           "versionName": "1.0",
           "type": "Giải Trí",
