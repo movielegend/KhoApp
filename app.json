@@ -37,7 +37,7 @@
         {
           "name": "TV360",
           "versionName": "3.8 ổn định nhất",
-          "type": "Giải Trí",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_3.8.apk",
           "note": " TV360 xem truyền hình, các loại phim,...",
@@ -45,21 +45,12 @@
         },
         {
           "name": "VTVGO",
-          "versionName": "ổn định nhất",
-          "type": "Giải Trí",
+          "versionName": "10.6.15",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.6.15.apk",
           "note": " TV360 xem truyền hình, các loại phim,...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
-        },
-        {
-          "name": "Vebo TV",
-          "versionName": "1.0",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/VeboTV_v1.0.apk",
-          "note": "Vebotv Bóng đá là ứng dụng miễn phí cho phép bạn xem lịch thi đấu, cập nhật tỷ số bóng đá, diễn biến trận đấu nhanh nhất, xem Bảng xếp hạng mới nhất.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VeboTV/anh.png"]
         },
         {
           "name": "SCTVOnline",
