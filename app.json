@@ -36,10 +36,10 @@
         },
         {
           "name": "TV360",
-          "versionName": "3.8 ổn định nhất",
+          "versionName": "4.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_3.8.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_4.1.apk",
           "note": " TV360 xem truyền hình, các loại phim,...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh2.png"]
         },
