@@ -186,6 +186,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
       },
       {
+        "name": "karaoke",
+        "versionName": "1.2.2",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/Tivi Karaoke_1.2.2.apk",
+        "note": "karaoke hát cho nhau nghe .",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh.png"]
+      },
+      {
         "name": "Spotify",
         "versionName": "1.59.3",
         "type": "Giải Trí",
