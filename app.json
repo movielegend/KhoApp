@@ -74,6 +74,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoTV/anh.png"]
       },
       {
+        "name": "Phim4K",
+        "versionName": "2.5.0",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4K/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4K/Phim-4K_2.5.0.apk",
+        "note": "Phim4K - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Phim4K/anh1.png"]
+      },
+      {
         "name": "Netflix_Trắng",
         "versionName": "Netflix_2.7 - Trắng",
         "type": "Giải Trí",
