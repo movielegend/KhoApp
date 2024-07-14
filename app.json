@@ -27,10 +27,10 @@
         },
         {
           "name": "iMedia - Xem Tivi HD",
-          "versionName": "24.05.01",
+          "versionName": "24.07.01",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia-tv-24.05.01.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia-Xem-TV-HD_24.07.01.apk",
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
         },
@@ -93,10 +93,10 @@
       },
       {
         "name": "GalaxyPlay",
-        "versionName": "3.10.12",
+        "versionName": "3.10.13",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.12.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.13.apk",
         "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
