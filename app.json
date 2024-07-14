@@ -168,6 +168,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh.jpg"]
       },
       {
+        "name": "MAXHUBShare",
+        "versionName": "1.1.72",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/MAXHUBShare for TV_F.1.1.72.apk",
+        "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/anh1.png"]
+      },
+      {
         "name": "FastCast TV",
         "versionName": "2.09.221014",
         "type": "Tiện ích",
