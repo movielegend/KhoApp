@@ -101,6 +101,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh2.png"]
       },
       {
+        "name": "NovaTV",
+        "versionName": "2.1.7",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/NovaTV_2.1.7b.apk",
+        "note": "ứng dụng xem phim , ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/anh2.png"]
+      },
+      {
         "name": "GalaxyPlay",
         "versionName": "3.10.13",
         "type": "Giải Trí",
@@ -247,6 +256,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.7.1.2_Mod.apk",
         "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
+      },
+      {
+        "name": "VLC",
+        "versionName": "3.5.4",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/VLC_3.5.4.apk",
+        "note": "hỗ trợ app xem phim",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh1.png"]
       },
       {
         "name": "MStore",
