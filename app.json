@@ -258,6 +258,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
       },
       {
+        "name": "file màn hình",
+        "versionName": "phiên bản mới nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/file màn hình.apk",
+        "note": "hỗ trợ thay đổi giao diện",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+      },
+      {
         "name": "VLC",
         "versionName": "3.5.4",
         "type": "Tiện ích",
