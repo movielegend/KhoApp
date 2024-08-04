@@ -119,6 +119,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/anh2.png"]
       },
       {
+        "name": "VLC",
+        "versionName": "3.5.4",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/VLC_3.5.4.apk",
+        "note": "hỗ trợ app xem phim, tải dùng chung cho app NOVA TV ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh1.png"]
+      },
+      {
         "name": "GalaxyPlay",
         "versionName": "3.10.13",
         "type": "Giải Trí",
@@ -274,15 +283,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/file màn hình.apk",
         "note": "hỗ trợ thay đổi giao diện",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
-      },
-      {
-        "name": "VLC",
-        "versionName": "3.5.4",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/VLC_3.5.4.apk",
-        "note": "hỗ trợ app xem phim",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh1.png"]
       },
       {
         "name": "MStore",
