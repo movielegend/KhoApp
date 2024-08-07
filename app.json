@@ -65,15 +65,6 @@
     "entertainment":{ "apps":
     [
       {
-        "name": "cloudStream",
-        "versionName": "4.3.2",
-        "type": "Giải Trí - xem phim ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/cloudStream/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/cloudStream/CloudStream_4.3.2.apk",
-        "note": "CloudStream - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/cloudStream/anh1.png"]
-      },
-      {
         "name": "Qphim",
         "versionName": "2.5.0",
         "type": "Giải Trí - xem phim",
