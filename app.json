@@ -267,6 +267,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
       },
       {
+        "name": "DLStore",
+        "versionName": "phiên bản mới nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/DLStore_v10.1.apk",
+        "note": " DLstore là kho ứng dụng tải app ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/anh.png"]
+      },
+      {
         "name": "file màn hình",
         "versionName": "phiên bản mới nhất",
         "type": "Tiện ích",
