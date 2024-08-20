@@ -119,6 +119,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh2.png"]
       },
       {
+        "name": "Movie4k",
+        "versionName": "Bản Mới Nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie4k/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie4k/Movie-4k.apk",
+        "note": "ứng dụng xem phim , ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie4k/anh.png"]
+      },
+      {
         "name": "NovaTV",
         "versionName": "2.1.7",
         "type": "Giải Trí",
