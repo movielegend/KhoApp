@@ -83,15 +83,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/cloudStream/anh1.png"]
       },
       {
-        "name": "BongNgoXemFim",
-        "versionName": "5.7.4",
-        "type": "Giải Trí - xem phim",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoXemFim/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoXemFim/BongNgoPlayer_5.7.4.apk",
-        "note": "Qphim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgoXemFim/anh.png"]
-      },
-      {
         "name": "Netflix_Q10",
         "versionName": "Phiên bản mới nhất",
         "type": "Giải Trí",
