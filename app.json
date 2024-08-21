@@ -74,6 +74,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/anh2.png"]
       },
       {
+        "name": "BongNgo",
+        "versionName": "5.7.4",
+        "type": "Giải Trí - xem phim",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgo/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgo/BongNgoPlayer_5.7.4.apk",
+        "note": "Qphim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/BongNgo/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/anh1.png"]
+      },
+      {
         "name": "cloudStream",
         "versionName": "4.4.0",
         "type": "Giải Trí - xem phim",
