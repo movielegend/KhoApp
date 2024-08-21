@@ -110,6 +110,24 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh2.png"]
       },
       {
+        "name": "HDO_PHIM",
+        "versionName": "Bản Mới Nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HDO_PHIM/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HDO_PHIM/HDO-Box_1.1.5.apk",
+        "note": "ứng dụng xem phim , tải kèm app Drama-Player ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HDO_PHIM/anh.png"]
+      },
+      {
+        "name": "Drama-Player-HDO",
+        "versionName": "Bản Mới Nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Drama-Player-HDO/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Drama-Player-HDO/Drama-Player-HDO_1.0.5.apk",
+        "note": "Dùng cho app HDO ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Drama-Player-HDO/anh.png"]
+      },
+      {
         "name": "Movie4k",
         "versionName": "Bản Mới Nhất",
         "type": "Giải Trí",
