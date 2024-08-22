@@ -65,13 +65,13 @@
     "entertainment":{ "apps":
     [
       {
-        "name": "PhimHayDeMo",
+        "name": "PhimHay",
         "versionName": "Bản Mới Nhất ",
         "type": "Giải Trí - xem phim",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHayDeMo/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHayDeMo/PhimHay.apk",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHay.apk",
         "note": "Qphim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHayDeMo/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHayDeMo/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh1.png"]
       },
       {
         "name": "Netflix_Q10",
