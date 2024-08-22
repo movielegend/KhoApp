@@ -65,15 +65,6 @@
     "entertainment":{ "apps":
     [
       {
-        "name": "Qphim",
-        "versionName": "2.5.0",
-        "type": "Giải Trí - xem phim",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/qphim-1.4.0.apk",
-        "note": "Qphim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Qphim/anh2.png"]
-      },
-      {
         "name": "BongNgo",
         "versionName": "5.7.4",
         "type": "Giải Trí - xem phim",
@@ -108,51 +99,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/Netflix8105.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh2.png"]
-      },
-      {
-        "name": "HDO_PHIM",
-        "versionName": "Bản Mới Nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HDO_PHIM/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HDO_PHIM/HDO-Box_1.1.5.apk",
-        "note": "ứng dụng xem phim , tải kèm app Drama-Player ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/HDO_PHIM/anh.png"]
-      },
-      {
-        "name": "Drama-Player-HDO",
-        "versionName": "Bản Mới Nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Drama-Player-HDO/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Drama-Player-HDO/Drama-Player-HDO_1.0.5_Mod.apk",
-        "note": "Dùng cho app HDO ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Drama-Player-HDO/anh.png"]
-      },
-      {
-        "name": "Movie4k",
-        "versionName": "Bản Mới Nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie4k/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie4k/Movie-4k.apk",
-        "note": "ứng dụng xem phim , ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie4k/anh.png"]
-      },
-      {
-        "name": "NovaTV",
-        "versionName": "2.1.7",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/NovaTV_2.1.7b.apk",
-        "note": "ứng dụng xem phim , ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/NovaTV/anh2.png"]
-      },
-      {
-        "name": "VLC",
-        "versionName": "3.5.4",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/VLC_3.5.4.apk",
-        "note": "hỗ trợ app xem phim, tải dùng chung cho app NOVA TV ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VLC/anh1.png"]
       },
       {
         "name": "GalaxyPlay",
@@ -342,15 +288,6 @@
     },
     "childre":{ "apps":
     [
-      {
-        "name": "Chicken",
-        "versionName": "1.30",
-        "type": "Danh cho trẻ em",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/ChickenInvaders 5_1.30.apk",
-        "note": "Pikachu là tựa game giải trí, dùng khiển chuột để chơi ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Chicken/anh2.png"]
-      },
       {
         "name": "Youtube",
         "versionName": "5.01",
