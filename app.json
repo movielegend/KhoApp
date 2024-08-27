@@ -35,6 +35,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png"]
         },
         {
+          "name": "DLtivi",
+          "versionName": "12.8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/iMedia-Xem-TV-HD_24.07.01.apk",
+          "note": "Ứng dụng DLtivi là một ứng dụng xem tv miễn phí .",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/anh.png"]
+        },
+        {
           "name": "TV360",
           "versionName": "4.1",
           "type": "Truyền hình trực tuyến",
