@@ -186,6 +186,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/anh1.png"]
       },
       {
+        "name": "AirPinLite",
+        "versionName": "1.1.72",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/airpin-lite-5-5-4.apk",
+        "note": "ứng dụng kết nối với thiết bị adr",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh.png"]
+      },
+      {
         "name": "FastCast TV",
         "versionName": "2.09.221014",
         "type": "Tiện ích",
@@ -280,9 +289,9 @@
         "versionName": "1.0",
         "type": "Tiện ích",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/MStore.v01.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/Mstore_2.0.0.apk",
         "note": "kho app",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png", "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
       },
       {
         "name": "TeamViewer QuickSupport",
