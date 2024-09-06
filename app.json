@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/anh.png"]
         },
         {
+          "name": "iQIYI",
+          "versionName": "7.5.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI_7.5.1.apk",
+          "note": " iQIYI xem các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh.png"]
+        },
+        {
           "name": "TV360",
           "versionName": "4.1",
           "type": "Truyền hình trực tuyến",
