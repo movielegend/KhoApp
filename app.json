@@ -177,6 +177,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
       },
       {
+        "name": "FastCast TV",
+        "versionName": "2.09.221014",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
+        "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
+      },
+      {
         "name": "WifiDisplay",
         "versionName": "Đang Update",
         "type": "Tiện ích",
@@ -186,15 +195,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh.jpg"]
       },
       {
-        "name": "MAXHUBShare",
-        "versionName": "1.1.72",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/MAXHUBShare for TV_F.1.1.72.apk",
-        "note": "ứng dụng kết nối với thiết bị adr",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MAXHUBShare/anh1.png"]
-      },
-      {
         "name": "AirPinLite",
         "versionName": "1.1.72",
         "type": "Tiện ích",
@@ -202,15 +202,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/airpin-lite-5-5-4.apk",
         "note": "ứng dụng kết nối với thiết bị adr",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh.png"]
-      },
-      {
-        "name": "FastCast TV",
-        "versionName": "2.09.221014",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
-        "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
       },
       {
         "name": "TikTok",
@@ -276,15 +267,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
       },
       {
-        "name": "DLStore",
-        "versionName": "phiên bản mới nhất",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/DLStore_v10.1.apk",
-        "note": " DLstore là kho ứng dụng tải app ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/anh.png"]
-      },
-      {
         "name": "file màn hình",
         "versionName": "phiên bản mới nhất",
         "type": "Tiện ích",
@@ -292,6 +274,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/file màn hình.apk",
         "note": "hỗ trợ thay đổi giao diện",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+      },
+      {
+        "name": "DLStore",
+        "versionName": "phiên bản mới nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/DLStore_v10.1.apk",
+        "note": " DLstore là kho ứng dụng tải app ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/anh.png"]
       },
       {
         "name": "MStore",
@@ -307,7 +298,7 @@
         "versionName": "15.35.156",
         "type": "Tiện ích",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/TeamViewerQuickSupport.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/TeamViewer-QuickSupport_15.54.476.apk",
         "note": "Nhìn chung, phần mềm truy cập máy tính từ xa TeamViewer QuickSupport là một phần mềm khá nhỏ gọn và tiện dụng, được sử dụng để nhanh chóng tạo kết nối giữa hai ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/anh1.png"]
       }
