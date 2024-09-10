@@ -231,15 +231,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh1.png"]
       },
       {
-        "name": "emont",
-        "versionName": "1.1",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emont/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emont/emont.apk",
-        "note": "karaoke hát cho nhau nghe .",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/emont/anh.png"]
-      },
-      {
         "name": "Spotify",
         "versionName": "1.59.3",
         "type": "Giải Trí",
