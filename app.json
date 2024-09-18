@@ -110,6 +110,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh2.png"]
       },
       {
+        "name": "smarttube_stable",
+        "versionName": "Luôn là bản Beta mới nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/smarttube_stable.apk",
+        "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/anh2.png"]
+      },
+      {
         "name": "GalaxyPlay",
         "versionName": "3.10.13",
         "type": "Giải Trí",
@@ -135,15 +144,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT-Play-AndroidTV_7.15.9.apk",
         "note": "Cảm ơn bạn đã sử dụng FPT Play for Android TV. Ứng dụng được cập nhật định kỳ và thường xuyên nhằm nâng cao trải nghiệm tốt hơn. ...\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
-      },
-      {
-        "name": "smarttube_stable",
-        "versionName": "Luôn là bản Beta mới nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/smarttube_stable.apk",
-        "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/smarttube_stable/anh2.png"]
       }
     ]
     },
