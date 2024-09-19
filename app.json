@@ -136,15 +136,7 @@
         "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
       },
-      {
-        "name": "FPTPlay",
-        "versionName": "7.16.20",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo12.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT Play 7.16.20.apk",
-        "note": "Cảm ơn bạn đã sử dụng FPT Play for Android TV. Ứng dụng được cập nhật định kỳ và thường xuyên nhằm nâng cao trải nghiệm tốt hơn. ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png"]
-      }
+
     ]
     },
     "utilities":{ "apps":
