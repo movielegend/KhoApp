@@ -171,10 +171,10 @@
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo1.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
         "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
       },
       {
         "name": "FastCast TV",
@@ -198,10 +198,10 @@
         "name": "AirPinLite",
         "versionName": "1.1.72",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/logo1.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/airpin-lite-5-5-4.apk",
         "note": "ứng dụng kết nối với thiết bị adr",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh.png"]
       },
       {
         "name": "TikTok",
