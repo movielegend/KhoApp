@@ -205,12 +205,12 @@
       },
       {
         "name": "TikTok",
-        "versionName": "1.1.72",
+        "versionName": "11.9.10",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo1.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/tiktok.tv_11.9.10.apk",
         "note": "ứng dụng xem giải trí ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
       },
       {
         "name": "karaoke",
