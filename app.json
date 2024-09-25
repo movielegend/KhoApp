@@ -11,72 +11,72 @@
           "name": "⚽ Sport TV",
           "versionName": "4.5",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportsTV_4.5.apk",
           "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh1.png"]
         },
         {
           "name": "Monster TV",
           "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/logo2.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
           "note": "Xem truyền hình, đá bóng miễn phí ,...\n\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh1.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh1.png"]
         },
         {
           "name": "iMedia - Xem Tivi HD",
           "versionName": "24.07.01",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia-Xem-TV-HD_24.07.01.apk",
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh2.png"]
         },
         {
           "name": "DLtivi",
           "versionName": "12.8",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/DLTivi_12.8.apk",
           "note": "Ứng dụng DLtivi là một ứng dụng xem tv miễn phí .",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/anh.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/anh1.png"]
         },
         {
           "name": "iQIYI",
           "versionName": "7.5.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI_7.5.1.apk",
           "note": " iQIYI xem các loại phim,...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
         },
         {
           "name": "TV360",
           "versionName": "4.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_4.1.apk",
           "note": " TV360 xem truyền hình, các loại phim,...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
         },
         {
           "name": "VTVGO",
           "versionName": "10.6.15",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.6.15.apk",
           "note": " TV360 xem truyền hình, các loại phim,...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
         },
         {
           "name": "SCTVOnline",
           "versionName": "3.4.12",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo.png",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_3.4.12.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
         }
         ]
       },
@@ -86,10 +86,10 @@
         "name": "PhimHay",
         "versionName": "2.4.2",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo2.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/Apk Phimhay.apk",
         "note": "Qphim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh1.png"]
       },
       {
         "name": "Netflix_2024",
@@ -101,49 +101,40 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2024/anh.png"]
       },
       {
-        "name": "Netflix_NEW",
-        "versionName": "đang là bản mới nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/Netflix8105.apk",
-        "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_NEW/anh2.png"]
-      },
-      {
         "name": "Youtube_chặnQC",
         "versionName": "Luôn là bản Beta mới nhất",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/smarttube_stable.apk",
         "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh2.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh2.png"]
       },
       {
         "name": "GalaxyPlay",
         "versionName": "3.10.13",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.13.apk",
         "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
       {
         "name": "VieON",
         "versionName": "30.5.6",
         "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/VieON-for-AndroidTV_30.5.6.apk",
         "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"]
       },
       {
         "name": "FPTPlay",
         "versionName": "7.16.20",
         "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/SmartTvAndroid_7.16.20.apk",
         "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       }
     ]
     },
@@ -153,155 +144,119 @@
         "name": "Movie Store",
         "versionName": "Mới Nhất",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/MovieStore_v1.1.apk",
         "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/anh1.png"]
       },
       {
         "name": "trình Chiếu Web",
         "versionName": "2.2.0",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/Web Video Caster Receiver_2.0.0.apk",
         "note": "ỨNG DỤNG này giúp chúng ta có thể phát trình chiếu web, hoặc 1 nội dung nào đó từ điện thoại lên Máy Chiếu mượt mà hơn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh2.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh2.png"]
       },
       {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
         "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh1.png"]
       },
       {
         "name": "FastCast TV",
         "versionName": "2.09.221014",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
         "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh1.png"]
       },
       {
         "name": "WifiDisplay",
         "versionName": "Đang Update",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh.jpg"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh2.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.jpg"]
       },
       {
         "name": "AirPinLite",
         "versionName": "1.1.72",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/logo1.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/logo2.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/airpin-lite-5-5-4.apk",
         "note": "ứng dụng kết nối với thiết bị adr",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh2.png"]
       },
       {
         "name": "TikTok",
         "versionName": "11.9.10",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/tiktok.tv_11.9.10.apk",
         "note": "ứng dụng xem giải trí ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh1.png"]
       },
       {
         "name": "karaoke",
         "versionName": "1.2.2",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/Tivi Karaoke_1.2.2.apk",
         "note": "karaoke hát cho nhau nghe .",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh2.png"]
       },
       {
         "name": "Spotify",
         "versionName": "1.59.3",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/SpotifyADS.Removed.apk",
         "note": "Với Spotify trên TV, bạn có thể thưởng thức tất cả nhạc và podcast mình thích, ngay trên màn hình lớn. Lướt qua trang nghệ sĩ, album, bài hát và playlist cũng như xem trang nghệ sĩ và ảnh bìa đẹp lộng lẫy cỡ màn hình TV. Điều khiển phát bằng điều khiển TV hoặc bằng Spotify Connect trên điện thoại hay máy tính bảng của bạn. Bạn thậm chí có thể chuyển qua lại giữa hai thiết bị để tận hưởng trải nghiệm hoàn toàn liền mạch.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
       },
       {
         "name": "Zing Mp3",
         "versionName": "20.06.01",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/zingmp3TVmod.apk",
         "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh.png"]
-      },
-      {
-        "name": "Kiki-MBLG",
-        "versionName": "23.06.02",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/Kiki-MBLG.apk",
-        "note": "Trợ lý Kiki sử dụng trên ô tô, điều khiển bằng giọng nói tiếng Việt\n\"Kiki Auto\" là phiên bản trợ lý Kiki sử dụng trên ô tô. Tính năng điều khiển bằng giọng nói mang lại sự tiện dụng và an toàn khi lái xe. Chỉ bằng một câu nói đơn giản, người dùng có thể \"nhờ\" trợ lý Kiki chỉ đường, bật nhạc, gọi điện thoại, và nhiều tác vụ hữu ích khác.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Kiki/anh.png"]
-      },
-      {
-        "name": "Tìm kiếm giọng nói Google",
-        "versionName": "v.1.0",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/Tìm kiếm giọng nói (com.xiaomi.voice) [v.1.0].apk",
-        "note": " Tính năng tìm kiếm giọng nói đã được tích hợp sẵn trên Google Chrome thông qua công cụ tìm kiếm Google.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TìmkiếmgiọngnóiGoogle/anh1.png"]
-      },
-      {
-        "name": "OTT-Navigator",
-        "versionName": "1.7.1.2",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/OTT-Navigator-IPTV_1.7.1.2_Mod.apk",
-        "note": "Với OTT-Navigator, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT-Navigator/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh1.png"]
       },
       {
         "name": "file màn hình",
         "versionName": "phiên bản mới nhất",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/file màn hình.apk",
         "note": "hỗ trợ thay đổi giao diện",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh2.png"]
       },
       {
         "name": "DLStore",
         "versionName": "phiên bản mới nhất",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/DLStore_v10.1.apk",
         "note": " DLstore là kho ứng dụng tải app ",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLStore/anh1.png"]
       },
       {
         "name": "MStore",
         "versionName": "1.0",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/Mstore_2.0.0.apk",
         "note": "kho app",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh2.png"]
       },
-      {
-        "name": "TeamViewer QuickSupport",
-        "versionName": "15.35.156",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/TeamViewer-QuickSupport_15.54.476.apk",
-        "note": "Nhìn chung, phần mềm truy cập máy tính từ xa TeamViewer QuickSupport là một phần mềm khá nhỏ gọn và tiện dụng, được sử dụng để nhanh chóng tạo kết nối giữa hai ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/anh.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TeamViewer/anh1.png"]
-      }
     ]
     },
     "childre":{ "apps":
@@ -310,10 +265,10 @@
         "name": "Youtube",
         "versionName": "5.01",
         "type": " Gỉai trí ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/YouTube-TV_5.01.313_7.0.apk",
         "note": " xem video trực tuyến  ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
       }
     ]
     }
