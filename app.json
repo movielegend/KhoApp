@@ -183,7 +183,7 @@
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh2.png","https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.jpg"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png"]
       },
       {
         "name": "AirPinLite",
@@ -237,7 +237,7 @@
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/file màn hình.apk",
         "note": "hỗ trợ thay đổi giao diện",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh2.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
       },
       {
         "name": "DLStore",
