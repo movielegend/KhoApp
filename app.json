@@ -204,6 +204,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh1.png"]
       },
       {
+        "name": "TikTok2",
+        "versionName": "11.10.3",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok2/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok2/TikTok-AndroidTV_11.10.3.apk",
+        "note": "ứng dụng xem giải trí ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok2/anh.png"]
+      },
+      {
         "name": "karaoke",
         "versionName": "1.2.2",
         "type": "Giải Trí",
