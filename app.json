@@ -142,10 +142,10 @@
     [
       {
         "name": "Movie Store",
-        "versionName": "Mới Nhất",
+        "versionName": "1.2",
         "type": "Tiện ích",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/MovieStore_v1.1.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/MovieStore_v1.2.apk",
         "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/anh1.png"]
       },
