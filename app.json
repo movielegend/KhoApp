@@ -53,6 +53,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
         },
         {
+          "name": "K+",
+          "versionName": "11.4.115",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/K+LiveTV&VOD_11.4.115.apk",
+          "note": " TV360 xem truyền hình, các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/K+/anh1.png"]
+        },
+        {
           "name": "TV360",
           "versionName": "4.3",
           "type": "Truyền hình trực tuyến",
