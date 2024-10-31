@@ -287,6 +287,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/YouTube-TV_5.01.313_7.0.apk",
         "note": " xem video trực tuyến  ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
+      },
+      {
+        "name": "Google voice",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/Google Kaniss 2.2.0.apk",
+        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
       }
     ]
     }
