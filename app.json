@@ -296,6 +296,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/Google Kaniss 2.2.0.apk",
         "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
+      },
+      {
+        "name": "Firefox Vào Web",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
+        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
       }
     ]
     }
