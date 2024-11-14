@@ -168,6 +168,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
       },
       {
+        "name": "Nimo TV",
+        "versionName": "1.0.2",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Nimo TV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Nimo TV/nimotvpro_v1.0.2.apk",
+        "note": "Nimo TV là một trong những nền tảng livestream nổi bật, giúp người dùng có thể dễ dàng theo dõi và tham gia vào các nội dung giải trí phong phú. Từ game, âm nhạc đến các chương trình tương tác, Nimo mang lại trải nghiệm hấp dẫn và đa dạng cho cộng đồng người xem.  ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Nimo TV/anh.png"]
+      },
+      {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
