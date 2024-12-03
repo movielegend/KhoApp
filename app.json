@@ -307,6 +307,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
       },
       {
+        "name": "KiKi",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KiKi/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KiKi/Kiki-MBLG.apk",
+        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/KiKi/anh.png"]
+      },
+      {
         "name": "Firefox Vào Web",
         "versionName": "Mới Nhất",
         "type": "Tiện ích",
