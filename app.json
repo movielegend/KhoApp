@@ -177,6 +177,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
       },
       {
+        "name": "Truyền Màn Hình",
+        "versionName": "5.0.6",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/Air Receiver 5.0.6.apk",
+        "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
+      },
+      {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
@@ -186,15 +195,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh2.png"]
       },
       {
-        "name": "FastCast TV",
-        "versionName": "2.09.221014",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/FastCast-TV_2.09.221014.apk",
-        "note": "Nó giúp bạn truyền điện thoại, máy tính bảng hoặc PC của mình lên màn hình TV lớn với chất lượng hình ảnh cao, phản hồi theo thời gian thực và ổn định.\nVà bạn cũng có thể phát video, nhạc hoặc hình ảnh của điện thoại trên TV.\nTruyền trên Youtube và AirPlay cũng được hỗ trợ tại đây trong Ứng dụng FastCast TV.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FastCast/anh1.png"]
-      },
-      {
         "name": "WifiDisplay",
         "versionName": "Đang Update",
         "type": "Tiện ích",
@@ -202,15 +202,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png"]
-      },
-      {
-        "name": "AirPinLite",
-        "versionName": "1.1.72",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/logo3.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/airpin-lite-5-5-4.apk",
-        "note": "ứng dụng kết nối với thiết bị adr",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPinLite/anh3.png"]
       },
       {
         "name": "TikTok",
