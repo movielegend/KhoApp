@@ -314,6 +314,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
         "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
+      },
+      {
+        "name": "OTT_K+",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.1.6_Mod.apk",
+        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
       }
     ]
     }
