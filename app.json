@@ -83,13 +83,13 @@
     "entertainment":{ "apps":
     [
       {
-        "name": "PhimHay",
-        "versionName": "2.4.4",
+        "name": "PhimHay_Premium",
+        "versionName": "2.4.5",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHayVer244.apk",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay_Premium/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay_Premium/phimhaykey.apk",
         "note": "phimhay - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay_Premium/anh.png"]
       },
       {
         "name": "Netflix_MỚI",
@@ -287,7 +287,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/YouTube-TV_5.01.313_7.0.apk",
         "note": " xem video trực tuyến  ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
-      },
+      },{
+      "name": "PhimHay",
+      "versionName": "2.4.4",
+      "type": "Giải Trí",
+      "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
+      "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHayVer244.apk",
+      "note": "phimhay - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+      "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+    },
       {
         "name": "Google voice",
         "versionName": "Mới Nhất",
