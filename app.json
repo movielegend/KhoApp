@@ -8,6 +8,15 @@
     "tivi":{ "apps":
       [
         {
+          "name": "PhimHay",
+          "versionName": "2.4.4",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHayVer244.apk",
+          "note": "phimhay - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+        },
+        {
           "name": "⚽ Sport TV",
           "versionName": "4.5",
           "type": "Giải Trí",
@@ -15,6 +24,24 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/SportsTV_4.5.apk",
           "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SportTV/anh1.png"]
+        },
+        {
+          "name": "Youtube_chặnQC",
+          "versionName": "25.29",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/smarttube_beta.apk",
+          "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        },
+        {
+          "name": "Youtube",
+          "versionName": "5.01",
+          "type": " Gỉai trí ",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/YouTube-TV_5.01.313_7.0.apk",
+          "note": " xem video trực tuyến  ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
         },
         {
           "name": "Monster TV",
@@ -92,15 +119,6 @@
     "entertainment":{ "apps":
     [
       {
-        "name": "PhimHay",
-        "versionName": "2.4.4",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHayVer244.apk",
-        "note": "phimhay - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
-      },
-      {
         "name": "Netflix_MỚI",
         "versionName": "1.2.3",
         "type": "Giải Trí",
@@ -119,13 +137,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_Q10/anh.png"]
       },
       {
-        "name": "Youtube_chặnQC",
-        "versionName": "25.29",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/smarttube_beta.apk",
-        "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        "name": "OTT_K+",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.1.6_Mod.apk",
+        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
       },
       {
         "name": "GalaxyPlay",
@@ -289,15 +307,6 @@
     "childre":{ "apps":
     [
       {
-        "name": "Youtube",
-        "versionName": "5.01",
-        "type": " Gỉai trí ",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/YouTube-TV_5.01.313_7.0.apk",
-        "note": " xem video trực tuyến  ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
-      },
-      {
         "name": "PhimHay_Premium",
         "versionName": "2.4.5",
         "type": "Giải Trí",
@@ -332,15 +341,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
         "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
-      },
-      {
-        "name": "OTT_K+",
-        "versionName": "Mới Nhất",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.1.6_Mod.apk",
-        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
       }
     ]
     }
