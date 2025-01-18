@@ -69,50 +69,6 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/DLTivi_12.8.apk",
           "note": "Ứng dụng DLtivi là một ứng dụng xem tv miễn phí .",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/DLtivi/anh2.png"]
-        },
-        {
-          "name": "MyTV",
-          "versionName": "3.17.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV B2C OTT 3.17.0.392.1904210830.apk",
-          "note": "Ứng dụng MyTV là một ứng dụng xem tv miễn phí .",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
-        },
-        {
-          "name": "iQIYI",
-          "versionName": "7.5.1",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI_7.5.1.apk",
-          "note": " iQIYI xem các loại phim,...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
-        },
-        {
-          "name": "TV360",
-          "versionName": "4.3",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_4.3.apk",
-          "note": " TV360 xem truyền hình, các loại phim,...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
-        },
-        {
-          "name": "VTVGO",
-          "versionName": "10.6.15",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.6.15.apk",
-          "note": " TV360 xem truyền hình, các loại phim,...",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
-        },
-        {
-          "name": "SCTVOnline",
-          "versionName": "3.4.12",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_3.4.12.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
         }
         ]
       },
@@ -180,6 +136,50 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/bilibili_3.12.1.apk",
         "note": " Bilibili là một nền tảng xem phim hoạt hình và chia sẻ video với nhiều chủ đề khác nhau, trong đó nổi bật nhất là chủ đề hoạt hình, truyện tranh và trò chơi, ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"]
+      },
+      {
+        "name": "MyTV",
+        "versionName": "3.17.0",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV B2C OTT 3.17.0.392.1904210830.apk",
+        "note": "Ứng dụng MyTV là một ứng dụng xem tv miễn phí .",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
+      },
+      {
+        "name": "iQIYI",
+        "versionName": "7.5.1",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI_7.5.1.apk",
+        "note": " iQIYI xem các loại phim,...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
+      },
+      {
+        "name": "TV360",
+        "versionName": "4.3",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-AndroidTV_4.3.apk",
+        "note": " TV360 xem truyền hình, các loại phim,...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
+      },
+      {
+        "name": "VTVGO",
+        "versionName": "10.6.15",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_10.6.15.apk",
+        "note": " TV360 xem truyền hình, các loại phim,...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
+      },
+      {
+        "name": "SCTVOnline",
+        "versionName": "3.4.12",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_3.4.12.apk",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
       }
     ]
     },
