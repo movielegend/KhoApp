@@ -44,22 +44,22 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
         },
         {
-          "name": "Monster TV",
+          "name": "Truyền Hình",
           "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/logo2.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/Monster-TV_3.2.0.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình/logo2.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình/Monster-TV_3.2.0.apk",
           "note": "Xem truyền hình, đá bóng miễn phí ,...\n\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MonsterTV/anh1.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình/anh1.png"]
         },
         {
-          "name": "iMedia - Xem Tivi HD",
+          "name": "Truyền Hình iMedia",
           "versionName": "24.07.01",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/iMedia-Xem-TV-HD_24.07.02.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/iMedia-Xem-TV-HD_24.07.02.apk",
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iMedia/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/anh2.png"]
         },
         {
           "name": "DLtivi",
