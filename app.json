@@ -102,6 +102,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_Q10/anh.png"]
       },
       {
+        "name": "Thập Cẩm TV",
+        "versionName": "1.2.3",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Thập Cẩm TV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Thập Cẩm TV/ThapcamTV_1.2.3.apk",
+        "note": " Xem đã bóng free ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Thập Cẩm TV/anh.png"]
+      },
+      {
         "name": "OTT_K+",
         "versionName": "Mới Nhất",
         "type": "Tiện ích",
