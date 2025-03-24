@@ -26,6 +26,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
         },
         {
+          "name": "Cò TV",
+          "versionName": "1.0.4",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/Co TV 1.0.4.apk",
+          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên các thiết bị ... ",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/anh.png"]
+        },
+        {
           "name": "Truyền Hình+Đá Bóng⚽",
           "versionName": "4.5",
           "type": "Giải Trí",
