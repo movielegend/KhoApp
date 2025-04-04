@@ -2,13 +2,13 @@
   "data":{
     "notification":
        {
-         "note":"Hotline: 1900.25.25.97  - Cơ sở 1: Hồ Linh Quang, Đống Đa, Hà Nội  - Cơ sở 2: 25/6A Tái Thiết, P11, Quận Tân Bình, HCM - Cơ sở 3: 2 Ngõ 1 Gia Quất, Long Biên, Hà Nội  - Cơ sở 4: 112 Phan Trọng Tuệ, Hải Châu, Đà Nẵng",
-         "photo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/ThongBao/ThongBao1.jpg"
+         "note":"Hotline: 1900.25.25.97  - Cơ sở 1: Hồ Linh Quang, Đống Đa, Hà Nội  - Cơ sở 2: 25/6A Tái Thiết, P11, Quận Tân Bình, HCM - Cơ sở 3: 2 Ngõ 1 Gia Quất, Long Biên, Hà Nội  - Cơ sở 4: 214 Cách Mạng Tháng 8, Quận 3, HCM ",
+         "photo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/ThongBao/ThongBao2pg"
        },
     "tivi":{ "apps":
       [
         {
-          "name": "PhimHay",
+          "name": "Phim Hay",
           "versionName": "2.4.4",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
@@ -45,10 +45,10 @@
         },
         {
           "name": "Youtube_chặnQC",
-          "versionName": "26.47",
+          "versionName": "27.03",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_26.47_Stable_arm.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_27.03_Stable_arm.apk",
           "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
@@ -118,6 +118,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Thập Cẩm TV/ThapcamTV_1.2.8.apk",
         "note": " Xem đã bóng free ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Thập Cẩm TV/anh.png"]
+      },
+      {
+        "name": "OTT_K+",
+        "versionName": "1.7.1.6",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.1.6_Mod.apk",
+        "note": " xinchao.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
       },
       {
         "name": "GalaxyPlay",
@@ -348,8 +357,17 @@
         "type": "Tiện ích",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
-        "note": " Điều khiển tìm kiếm nội dung bằng giọng nói ...",
+        "note": " Ứng dụng vào web ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
+      },
+      {
+        "name": "apkx",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/apkx/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/apkx/trinhchieu.apk",
+        "note": " Kho ứng dụng mở rộng ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/apkx/anh.png"]
       }
     ]
     }
