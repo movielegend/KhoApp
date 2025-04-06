@@ -18,16 +18,16 @@
         },
         {
           "name": "Rổ Phim",
-          "versionName": "1.0.8",
+          "versionName": "1.0.9",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/Ro Phim 1.0.8.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/RoPhim-ATV_1.0.9.apk",
           "note": "Rổ Phim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
         },
         {
           "name": "Cò TV",
-          "versionName": "1.0.4",
+          "versionName": "1.0.6",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/logo.png",
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/CoTiVi_1.0.6.apk",
@@ -130,10 +130,10 @@
       },
       {
         "name": "GalaxyPlay",
-        "versionName": "3.10.13",
+        "versionName": "3.10.22",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.13.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.22_LamBass.apk",
         "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
@@ -148,10 +148,10 @@
       },
       {
         "name": "FPTPlay",
-        "versionName": "7.19.15",
+        "versionName": "7.20.22",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT-Play-AndroidTV_7.19.15.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT-Play-AndroidTV_7.20.22.apk",
         "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       },
@@ -202,10 +202,10 @@
       },
       {
         "name": "SCTVOnline",
-        "versionName": "3.4.20",
+        "versionName": "5.26.5",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_3.4.20.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_5.26.5.91805.apk",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
       }
     ]
