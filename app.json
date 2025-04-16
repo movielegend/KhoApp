@@ -166,10 +166,10 @@
       },
       {
         "name": "MyTV",
-        "versionName": "3.17.0",
+        "versionName": "4.50.0",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV B2C OTT 3.17.0.392.1904210830.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV_4.50.0_LamBass_ATV_Mod.apk",
         "note": "Ứng dụng MyTV là một ứng dụng xem tv miễn phí .",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
       },
