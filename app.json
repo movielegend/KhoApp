@@ -93,13 +93,22 @@
     "entertainment":{ "apps":
     [
       {
+        "name": "Netflix_MỚI",
+        "versionName": "1.2.3",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/Netflix Chuột 8.105.0.apk",
+        "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/anh1.png"]
+      },
+      {
         "name": "Netflix",
         "versionName": "Mới Nhất",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/logo1.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/netflix.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/anh.png"]
       },
       {
         "name": "Thập Cẩm TV",
@@ -188,7 +197,7 @@
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_11.3.13.apk",
-        "note": " TV360 xem truyền hình, các loại phim,...",
+        "note": " vtv go xem truyền hình, các loại phim,...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
       },
       {
