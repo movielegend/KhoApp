@@ -105,10 +105,10 @@
         "name": "Netflix",
         "versionName": "Mới Nhất",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/logo.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/logo1.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/netflix.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/anh1 .png"]
       },
       {
         "name": "Thập Cẩm TV",
@@ -127,15 +127,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.1.6_Mod.apk",
         "note": " xinchao.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
-      },
-      {
-        "name": "GalaxyPlay",
-        "versionName": "3.10.22",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/Galaxy-Play-TV_3.10.22_LamBass.apk",
-        "note": " Galaxy Play là ứng dụng đầu tiên tại Việt Nam cung cấp dịch vụ xem phim có bản quyền theo nhu cầu của người dùng.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/GalaxyPlay/anh1.png"]
       },
       {
         "name": "VieON",
