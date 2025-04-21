@@ -2,7 +2,7 @@
   "data":{
     "notification":
        {
-         "note":"Hotline: 1900.25.25.97  - Cơ sở 1: Hồ Linh Quang, Đống Đa, Hà Nội  - Cơ sở 2: 25/6A Tái Thiết, P11, Quận Tân Bình, HCM - Cơ sở 3: 2 Ngõ 1 Gia Quất, Long Biên, Hà Nội  - Cơ sở 4: 214 Cách Mạng Tháng 8, Quận 3, HCM ",
+         "note":"Hotline: 03594.66666-08337.55555  - Cơ sở 1: Hồ Linh Quang, Đống Đa, Hà Nội  - Cơ sở 2: 25/6A Tái Thiết, P11, Quận Tân Bình, HCM - Cơ sở 3: 2 Ngõ 1 Gia Quất, Long Biên, Hà Nội  - Cơ sở 4: 214 Cách Mạng Tháng 8, Quận 3, HCM ",
          "photo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/ThongBao/thongbao1.jpg"
        },
     "tivi":{ "apps":
@@ -105,10 +105,10 @@
         "name": "Netflix",
         "versionName": "Mới Nhất",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/logo1.png",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/logo.png",
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/netflix.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix/anh.png"]
       },
       {
         "name": "Thập Cẩm TV",
