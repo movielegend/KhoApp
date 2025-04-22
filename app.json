@@ -350,15 +350,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
         "note": " Ứng dụng vào web ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
-      },
-      {
-        "name": "apkx",
-        "versionName": "Mới Nhất",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/apkx/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/apkx/trinhchieu.apk",
-        "note": " Kho ứng dụng mở rộng ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/apkx/anh.png"]
       }
     ]
     }
