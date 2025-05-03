@@ -286,10 +286,10 @@
       },
       {
         "name": "Zing Mp3",
-        "versionName": "20.06.01",
+        "versionName": "23.09",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/zingmp3TVmod.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/ZingMP3_v23.09mod.apk",
         "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh1.png"]
       },
