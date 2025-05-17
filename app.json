@@ -175,10 +175,10 @@
       },
       {
         "name": "VTVGO",
-        "versionName": "11.4.2",
+        "versionName": "11.4.26",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTVgoTV_11.4.2.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_11.4.26.apk",
         "note": " vtv go xem truyền hình, các loại phim,...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
       },
