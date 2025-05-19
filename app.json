@@ -341,6 +341,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
         "note": " Ứng dụng vào web ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
+      },
+      {
+        "name": "CHplay",
+        "versionName": "46.0.19",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CHplay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CHplay/CH Play_46.1.40-23.apk",
+        "note": " Trang tải ứng dụng  ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CHplay/anh.png"]
       }
     ]
     }
