@@ -45,10 +45,10 @@
         },
         {
           "name": "Youtube_chặnQC",
-          "versionName": "27.62",
+          "versionName": "27.88",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_27.62_Beta_arm.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTube_beta_27.88_armeabi-v7a.apk",
           "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
@@ -341,15 +341,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox vào web.apk",
         "note": " Ứng dụng vào web ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
-      },
-      {
-        "name": "CHplay",
-        "versionName": "43.1.19",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CHplay/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CHplay/Google-Play-Store-v43.1.19-mod-GameDVA.com.apk",
-        "note": " Trang tải ứng dụng  ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/CHplay/anh.png"]
       }
     ]
     }
