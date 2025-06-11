@@ -18,11 +18,11 @@
         },
         {
           "name": "Rổ Phim",
-          "versionName": "1.1.1",
+          "versionName": "1.1.0",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/RoPhim-ATV_1.1.1.apk",
-          "note": "Rổ Phim - Ở đây toàn phim hay. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/RoPhim-ATV_1.1.0.apk",
+          "note": "Rổ Phim - Ở đây toàn phim hay.. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
         },
         {
@@ -45,10 +45,10 @@
         },
         {
           "name": "Youtube_chặnQC",
-          "versionName": "27.92",
+          "versionName": "27.53",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_27.92_Stable_arm.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_27.53_Stable_arm.apk",
           "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
@@ -112,10 +112,10 @@
       },
       {
         "name": "OTT_K+",
-        "versionName": "1.7.3.1",
+        "versionName": "1.7.1.6",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.3.1_Mod.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.1.6_Mod.apk",
         "note": " xinchao.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
       },
@@ -175,10 +175,10 @@
       },
       {
         "name": "VTVGO",
-        "versionName": "11.4.26",
+        "versionName": "11.4.2",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTV-Go-AndroidTV_11.4.26.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/VTVgoTV_11.4.2.apk",
         "note": " vtv go xem truyền hình, các loại phim,...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
       },
