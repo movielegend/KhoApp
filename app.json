@@ -45,10 +45,10 @@
         },
         {
           "name": "Youtube_chặnQC",
-          "versionName": "27.53",
+          "versionName": "Luôn mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_27.53_Stable_arm.apk",
+          "linkDownload": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
           "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
