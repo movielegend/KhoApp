@@ -44,6 +44,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/anh1.png"]
         },
         {
+          "name": "Youtube_chặnQC",
+          "versionName": "28.02",
+          "type": " Gỉai trí ",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_28.02_Beta_arm.apk",
+          "note": " xem video trực tuyến  ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        },
+        {
           "name": "Youtube",
           "versionName": "2.07",
           "type": " Gỉai trí ",
