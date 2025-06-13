@@ -44,15 +44,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/anh1.png"]
         },
         {
-          "name": "Youtube_chặnQC",
-          "versionName": "28.02",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SmartTubeNext_28.02_Beta_arm.apk",
-          "note": " Smart tube khiển giọng nói trên thiết bị ...\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
-        },
-        {
           "name": "Youtube",
           "versionName": "2.07",
           "type": " Gỉai trí ",
