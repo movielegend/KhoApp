@@ -54,10 +54,10 @@
         },
         {
           "name": "TizenYoutube",
-          "versionName": "2.07",
+          "versionName": "1.0.1",
           "type": " Gỉai trí ",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/Tizen Youtube TV Voice.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/TizenTube_1.0.1.apk",
           "note": " xem video trực tuyến  ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
