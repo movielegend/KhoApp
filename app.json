@@ -147,15 +147,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       },
       {
-        "name": "Galaxy",
-        "versionName": "3.10.24",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/Galaxy-Play_3.10.24_ATV.apk",
-        "note": "Với VieON, bạn có thể xem các bộ phim bom tấn, phim bất hủ độc quyền hot nhất của điện ảnh thế giới và Việt Nam: phim Hàn Quốc, Nhật Bản, Trung Quốc, ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"]
-      },
-      {
         "name": "bilibili",
         "versionName": "3.12.1",
         "type": "Truyền hình trực tuyến",
@@ -292,6 +283,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/file màn hình.apk",
         "note": "hỗ trợ thay đổi giao diện",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+      },
+      {
+        "name": "AptoideTV",
+        "versionName": "5.1.2",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/AptoideTV_5.1.2.apk",
+        "note": " AptoideTV là kho ứng dụng tải app ",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/anh.png"]
       },
       {
         "name": "DLStore",
