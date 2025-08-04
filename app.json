@@ -112,10 +112,10 @@
       },
       {
         "name": "netflix",
-        "versionName": "8.98.0",
+        "versionName": "mới nhất",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/Netflix_v8.98.0.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/netflix-mobile.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/anh2.png"]
       },
@@ -247,6 +247,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png"]
+      },
+      {
+        "name": "TikTok",
+        "versionName": "1.2.2",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/musical-ly.apk",
+        "note": "TikTok xem giải trí , mua hàng thả ga  .",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
       },
       {
         "name": "karaoke",
