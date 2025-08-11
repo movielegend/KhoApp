@@ -18,10 +18,10 @@
         },
         {
           "name": "Rổ Phim",
-          "versionName": "1.1.1",
+          "versionName": "1.1.2",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/RoPhim-ATV_1.1.1.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/RoPhim-ATV_1.1.2.apk",
           "note": "Rổ Phim - Ở đây toàn phim hay.. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
         },
@@ -139,10 +139,10 @@
       },
       {
         "name": "FPTPlay",
-        "versionName": "7.22.10",
+        "versionName": "7.22.12",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT Play - Phim, Sport, Anime_7.22.10.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT-Play-AndroidTV_7.22.12_LamBass.apk",
         "note": "FPT Play là ứng dụng xem truyền hình trực tuyến phổ biến trên các dòng điện thoại thông minh, máy tính bảng hoặc Android TV Box. Người xem được tận hưởng các chương trình truyền hình, phim ảnh, bóng đá, gameshow,... đến từ FPT Play với trải nghiệm hình ảnh và âm thanh chân thực nhất., ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
       },
@@ -175,10 +175,10 @@
       },
       {
         "name": "TV360",
-        "versionName": "3.8",
+        "versionName": "5.3",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360 3.8 Mod.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-ATV_5.3.apk",
         "note": " TV360 xem truyền hình, các loại phim,...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
       },
