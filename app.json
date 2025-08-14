@@ -231,6 +231,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
       },
       {
+        "name": "AirScreen",
+        "versionName": "2.14.1",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/AirScreen v2.14.1 (Mod).apk",
+        "note": "AirScreen là app dùng để kết nối trình chiếu từ điện thoại lên máy chiếu ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
+      },
+      {
         "name": "AirPin(PRO)",
         "versionName": "5.0.2",
         "type": "Tiện ích",
