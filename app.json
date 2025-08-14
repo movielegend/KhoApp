@@ -111,15 +111,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/anh.png"]
       },
       {
-        "name": "netflix",
-        "versionName": "9.29.0",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/Netflix_v9.29.0_MOD.apk",
-        "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/netflix/anh2.png"]
-      },
-      {
         "name": "OTT_K+",
         "versionName": "1.7.3.1",
         "type": "Giải Trí",
