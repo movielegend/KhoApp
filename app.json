@@ -276,6 +276,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
       },
       {
+        "name": "Soundcloud",
+        "versionName": "06.21",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/Soundcloud_2024.06.21_ATV.apk",
+        "note": "Soundcloud ứng dụng nghe nhạc cực hay ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"]
+      },
+      {
         "name": "Zing Mp3",
         "versionName": "23.09",
         "type": "Giải Trí",
