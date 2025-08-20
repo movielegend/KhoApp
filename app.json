@@ -102,13 +102,13 @@
     "entertainment":{ "apps":
     [
       {
-        "name": "Netflix_MỚI",
+        "name": "Netflix_2025",
         "versionName": "1.0",
         "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/Netflix Chuột 8.105.0 build 950623.apk",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/netflix.mediaclient_8.99.1.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_MỚI/anh.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
       },
       {
         "name": "OTT_K+",
