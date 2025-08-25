@@ -343,6 +343,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
       },
       {
+        "name": "Fix_CậpNhậtThờiGian",
+        "versionName": "Mới Nhất",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/com-cgutman-androidremotedebugger-16-62721314-9ebfb5f7a50f1713f1a835afa49995d2.apk",
+        "note": " Fix thời gian tự động cập nhật  ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/anh.png"]
+      },
+      {
         "name": "Giọng Nói KiKi",
         "versionName": "Mới Nhất",
         "type": "Tiện ích",
