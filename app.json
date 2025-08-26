@@ -36,10 +36,10 @@
         },
         {
           "name": "Truyền Hình+Đá Bóng⚽",
-          "versionName": "4.5",
+          "versionName": "5.0.2",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/MonPlayer-TV_1.0.8.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/SportsTV_5.0.2.apk",
           "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/anh1.png"]
         },
