@@ -27,10 +27,10 @@
         },
         {
           "name": "Cò TV",
-          "versionName": "1.0.7",
+          "versionName": "1.0.8",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/CoTiViV1.0.7.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/CoTiVi_1.0.8.apk",
           "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên các thiết bị ... ",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/anh.png"]
         },
@@ -45,10 +45,10 @@
         },
         {
           "name": "Youtube_chặnQC",
-          "versionName": "28.78",
+          "versionName": "29.13",
           "type": " Gỉai trí ",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_28.78_Stable_arm.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTubeNext_29.13_Stable_arm.apk",
           "note": " xem video trực tuyến  ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
@@ -81,10 +81,10 @@
         },
         {
           "name": "Truyền Hình iMedia",
-          "versionName": "25.04.05",
+          "versionName": "25.04.06",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/iMedia-Xem-TV-HD_25.04.05.B_ATV.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/iMedia-Xem-TV-HD_25.04.06.B_ATV.apk",
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/anh2.png"]
         },
@@ -286,10 +286,10 @@
       },
       {
         "name": "Zing Mp3",
-        "versionName": "23.09",
+        "versionName": "24.08",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/ZingMP3_v23.09mod.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/ZingMP3-AndroidTV_24.08.apk",
         "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh1.png"]
       },
