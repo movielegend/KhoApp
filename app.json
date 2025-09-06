@@ -26,6 +26,15 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
         },
         {
+          "name": "VuaGiaiTri",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/tv-app-armeabi-v7a.apk",
+          "note": "VuaGiaiTri - Ở đây toàn phim hay ,truyền hình,bóng đá .. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/anh.png"]
+        },
+        {
           "name": "Cò TV",
           "versionName": "1.0.8",
           "type": "Giải Trí",
