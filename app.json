@@ -48,7 +48,7 @@
           "versionName": "5.0.2",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/SportsTV_5.0.2.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/sporstv.apk",
           "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/anh1.png"]
         },
@@ -240,15 +240,6 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
       },
       {
-        "name": "AirPin(PRO)",
-        "versionName": "5.0.2",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/logo2.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/AirPin(PRO)-AirPlay_DLNA Receiver_5.0.2_apk.apk",
-        "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirPin(PRO)/anh2.png"]
-      },
-      {
         "name": "WifiDisplay",
         "versionName": "Đang Update",
         "type": "Tiện ích",
@@ -256,15 +247,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png"]
-      },
-      {
-        "name": "TikTok",
-        "versionName": "1.2.2",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/musical-ly.apk",
-        "note": "TikTok xem giải trí , mua hàng thả ga  .",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TikTok/anh.png"]
       },
       {
         "name": "karaoke",
