@@ -129,6 +129,24 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
       },
       {
+        "name": "VieON",
+        "versionName": "Mới Nhất",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/vieon (1).apk",
+        "note": "  VieON rất đa dạng, bao gồm phim bộ Việt Nam và quốc tế (Hàn, Trung, Nhật, Hollywood), các chương trình truyền hình, gameshow hot, thể thao trực tiếp (bóng đá, e-sports, quần vợt, võ thuật), các sự kiện giải trí lớn (đại nhạc hội, hoa hậu), và hơn 150 kênh truyền hình trong và ngoài nước, bao gồm cả kho nội dung bản quyền của K+ và HBO GO. , ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"]
+      },
+      {
+        "name": "Galaxy",
+        "versionName": "3.10.13",
+        "type": "Truyền hình trực tuyến",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/Galaxy Play TV_3.10.13_APKPure.apk",
+        "note": "Galaxy Play rất đa dạng, bao gồm: phim bom tấn Hollywood và phim Việt chiếu rạp (nhiều bộ phim doanh thu kỷ lục), các bộ phim bộ độc quyền (Galaxy Play Original) thuộc nhiều thể loại (hành động, tâm lý, tình cảm, hài...), chương trình truyền hình, show thực tế, và các nội dung miễn phí. ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"]
+      },
+      {
         "name": "FPTPlay",
         "versionName": "7.22.12",
         "type": "Truyền hình trực tuyến",
