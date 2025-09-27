@@ -166,11 +166,11 @@
       },
       {
         "name": "MyTV",
-        "versionName": "4.60.0",
+        "versionName": "4.20.0",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/MyTV_4.60.0_ATV.apk",
-        "note": "Ứng dụng MyTV là một ứng dụng xem tv miễn phí .",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/vn.mytvnet.b2cott_4.20.0.apk",
+        "note": " MyTV bao gồm một kho nội dung giải trí đa dạng và phong phú, với hơn 170 kênh truyền hình trong nước và quốc tế, các bộ phim điện ảnh, phim bộ, anime, nhạc thiếu nhi, cũng như các chương trình thể thao đỉnh cao như bóng đá, quần vợt, golf từ các giải đấu lớn. MyTV còn cung cấp các dịch vụ như xem theo yêu cầu (VOD), xem lại chương trình đã phát, tua lại chương trình, và nhiều tiện ích khác như karaoke, chơi game, nghe nhạc.  .",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
       },
       {
