@@ -370,13 +370,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/anh.png"]
       },
       {
-        "name": "Firefox Vào Web",
-        "versionName": "4.7.1",
+        "name": "Browser",
+        "versionName": "2.0.5",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/Firefox (Android TV)_4.7.1_APKPure.apk",
-        "note": " Ứng dụng vào web ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Firefox Vào Web/anh.png"]
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/Browser_2.0.5.apk",
+        "note": "Browser Ứng dụng vào web ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/anh.png"]
       }
     ]
     }
