@@ -45,10 +45,10 @@
         },
         {
           "name": "Cò TV",
-          "versionName": "1.1.0",
+          "versionName": "Luôn mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/CoTiViV1.1.0.apk",
+          "linkDownload": "https://cotivi.online/download",
           "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên các thiết bị ... ",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/anh.png"]
         },
