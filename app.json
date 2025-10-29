@@ -121,10 +121,10 @@
     [
       {
         "name": "Netflix_2025",
-        "versionName": "2.0",
+        "versionName": "9.38.0",
         "type": "Giải Trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/Netflix-8.121.2 build 22 50727.apk",
+        "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Netflix-9.38.0.build.5.63681.apk",
         "note": "Netflix là kho phim cực khủng và rất nổi tiếng thế giới. Mức chi phí để có thể đăng ký xem phim trên ứng dụng này khá cao so với người Việt.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
       },
