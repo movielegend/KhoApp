@@ -207,6 +207,33 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.3.1_Mod.apk",
         "note": " xinchao.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
+      },
+      {
+        "name": "Spotify",
+        "versionName": "1.84.23",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/Spotify_1.84.23_ATV_Mod.apk",
+        "note": "Với Spotify trên TV, bạn có thể thưởng thức tất cả nhạc và podcast mình thích, ngay trên màn hình lớn. Lướt qua trang nghệ sĩ, album, bài hát và playlist cũng như xem trang nghệ sĩ và ảnh bìa đẹp lộng lẫy cỡ màn hình TV. Điều khiển phát bằng điều khiển TV hoặc bằng Spotify Connect trên điện thoại hay máy tính bảng của bạn. Bạn thậm chí có thể chuyển qua lại giữa hai thiết bị để tận hưởng trải nghiệm hoàn toàn liền mạch.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
+      },
+      {
+        "name": "Soundcloud",
+        "versionName": "06.21",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/Soundcloud_2024.06.21_ATV.apk",
+        "note": "Soundcloud ứng dụng nghe nhạc cực hay ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"]
+      },
+      {
+        "name": "Zing Mp3",
+        "versionName": "24.08",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/ZingMP3-AndroidTV_24.08.apk",
+        "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh1.png"]
       }
     ]
     },
@@ -265,33 +292,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/Tivi Karaoke_1.2.2.apk",
         "note": "karaoke hát cho nhau nghe .",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh1.png"]
-      },
-      {
-        "name": "Spotify",
-        "versionName": "1.84.23",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/Spotify_1.84.23_ATV_Mod.apk",
-        "note": "Với Spotify trên TV, bạn có thể thưởng thức tất cả nhạc và podcast mình thích, ngay trên màn hình lớn. Lướt qua trang nghệ sĩ, album, bài hát và playlist cũng như xem trang nghệ sĩ và ảnh bìa đẹp lộng lẫy cỡ màn hình TV. Điều khiển phát bằng điều khiển TV hoặc bằng Spotify Connect trên điện thoại hay máy tính bảng của bạn. Bạn thậm chí có thể chuyển qua lại giữa hai thiết bị để tận hưởng trải nghiệm hoàn toàn liền mạch.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
-      },
-      {
-        "name": "Soundcloud",
-        "versionName": "06.21",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/Soundcloud_2024.06.21_ATV.apk",
-        "note": "Soundcloud ứng dụng nghe nhạc cực hay ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"]
-      },
-      {
-        "name": "Zing Mp3",
-        "versionName": "24.08",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/ZingMP3-AndroidTV_24.08.apk",
-        "note": "Zing MP3 phiên bản dành cho Android TV và Android Box\n\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng cao đồ sộ từ http://mp3.zing.vn bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nCác tính năng nổi bật:\n- Giao diện được thiết kế phù hợp với màn hình TV\n- Xem video chất lượng cao với nhiều độ phân giải khác nhau từ 480p đến 1080p",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh1.png"]
       },
       {
         "name": "file màn hình",
