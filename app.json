@@ -26,31 +26,31 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"]
         },
         {
-          "name": "Truyền Hình",
+          "name": "Truyền Hình_MonsterTV",
           "versionName": "3.2.0",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình/logo2.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình/Monster-TV_3.2.0.apk",
-          "note": "Xem truyền hình, đá bóng miễn phí ,...\n\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình/anh1.png"]
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_MonsterTV/logo2.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_MonsterTV/Monster-TV_3.2.0.apk",
+          "note": "Truyền Hình_MonsterTV Xem truyền hình, đá bóng miễn phí ,...\n\n",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_MonsterTV/anh1.png"]
         },
         {
-          "name": "Truyền Hình iMedia",
+          "name": "Truyền Hình_iMedia",
           "versionName": "25.04.06",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/iMedia-Xem-TV-HD_25.04.06.B_ATV.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/iMedia-Xem-TV-HD_25.04.06.B_ATV.apk",
           "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình iMedia/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"]
         },
         {
-          "name": "Truyền hình DLtivi",
+          "name": "Truyền hình_DLtivi",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình DLtivi/logo2.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình DLtivi/DLTivi_v14.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/DLTivi_v14.apk",
           "note": "Ứng dụng DLtivi là một ứng dụng xem tv miễn phí .",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình DLtivi/anh2.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"]
         }
         ]
       },
