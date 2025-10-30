@@ -249,24 +249,6 @@
     "utilities":{ "apps":
     [
       {
-        "name": "Movie Store",
-        "versionName": "bản update",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/MovieStore_v1.2.apk",
-        "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/anh1.png"]
-      },
-      {
-        "name": "trình Chiếu Web",
-        "versionName": "2.2.0",
-        "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/Web Video Caster Receiver_2.0.0.apk",
-        "note": "ỨNG DỤNG này giúp chúng ta có thể phát trình chiếu web, hoặc 1 nội dung nào đó từ điện thoại lên Máy Chiếu mượt mà hơn.",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
-      },
-      {
         "name": "Truyền Màn Hình",
         "versionName": "5.0.6",
         "type": "Tiện ích",
@@ -292,6 +274,24 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/WifiDisplay.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png"]
+      },
+      {
+        "name": "Movie Store",
+        "versionName": "bản update",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/MovieStore_v1.2.apk",
+        "note": "Airpin Pro là app dùng để kết nối trình chiếu từ điện thoại iphone lên máy chiếu ...",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/anh1.png"]
+      },
+      {
+        "name": "trình Chiếu Web",
+        "versionName": "2.2.0",
+        "type": "Tiện ích",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/Web Video Caster Receiver_2.0.0.apk",
+        "note": "ỨNG DỤNG này giúp chúng ta có thể phát trình chiếu web, hoặc 1 nội dung nào đó từ điện thoại lên Máy Chiếu mượt mà hơn.",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
       },
       {
         "name": "karaoke",
