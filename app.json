@@ -8,15 +8,6 @@
     "tivi":{ "apps":
       [
         {
-          "name": "Phim Hay",
-          "versionName": "2.4.4",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHayVer244.apk",
-          "note": "Phimhay - Ở đây toàn phim hay.. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
-        },
-        {
           "name": "PhimNe",
           "versionName": "3.0.5",
           "type": "Giải Trí",
@@ -127,6 +118,15 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/RoGaiTri_v1.1.5.apk",
         "note": "Rổ Phim - Ở đây toàn phim hay.. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
+      },
+      {
+        "name": "Phim Hay",
+        "versionName": "2.4.4",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/PhimHayVer244.apk",
+        "note": "Phimhay - Ở đây toàn phim hay.. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
       },
       {
         "name": "OTT_K+",
