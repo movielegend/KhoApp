@@ -8,15 +8,6 @@
     "tivi":{ "apps":
       [
         {
-          "name": "PhimNe",
-          "versionName": "3.0.5",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/logo.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/phimne-3.0.5.apk",
-          "note": "PhimNe - Ở đây toàn phim hay.. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/anh.png"]
-        },
-        {
           "name": "Cò TV",
           "versionName": "Luôn mới nhất",
           "type": "Giải Trí",
@@ -26,13 +17,13 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Cò TV/anh.png"]
         },
         {
-          "name": "Truyền Hình+Đá Bóng⚽",
+          "name": "Truyền Hình_SportTV",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/sporstv.apk",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/sporstv.apk",
           "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box, điện thoại và máy tính bảng Android.",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình+Đá Bóng/anh1.png"]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"]
         },
         {
           "name": "Truyền Hình",
