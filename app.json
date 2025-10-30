@@ -51,6 +51,86 @@
           "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/DLTivi_v14.apk",
           "note": "Ứng dụng DLtivi là một ứng dụng xem tv miễn phí .",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"]
+        },
+        {
+          "name": "VieON",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/vieon (1).apk",
+          "note": "  VieON rất đa dạng, bao gồm phim bộ Việt Nam và quốc tế (Hàn, Trung, Nhật, Hollywood), các chương trình truyền hình, gameshow hot, thể thao trực tiếp (bóng đá, e-sports, quần vợt, võ thuật), các sự kiện giải trí lớn (đại nhạc hội, hoa hậu), và hơn 150 kênh truyền hình trong và ngoài nước, bao gồm cả kho nội dung bản quyền của K+ và HBO GO. , ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"]
+        },
+        {
+          "name": "Galaxy ",
+          "versionName": "3.10.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT Play - Phim, Sport, Anime_7.24.10_APKPure (1).apk",
+          "note": "Galaxy Play rất đa dạng, bao gồm: phim bom tấn Hollywood và phim Việt chiếu rạp (nhiều bộ phim doanh thu kỷ lục), các bộ phim bộ độc quyền (Galaxy Play Original) thuộc nhiều thể loại (hành động, tâm lý, tình cảm, hài...), chương trình truyền hình, show thực tế, và các nội dung miễn phí. ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"]
+        },
+        {
+          "name": "FPTPlay",
+          "versionName": "7.19.15",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPTPlayAndroidTV_7.19.15_DL.apk",
+          "note": "FPT Play là ứng dụng xem truyền hình trực tuyến phổ biến trên các dòng điện thoại thông minh, máy tính bảng hoặc Android TV Box. Người xem được tận hưởng các chương trình truyền hình, phim ảnh, bóng đá, gameshow,... đến từ FPT Play với trải nghiệm hình ảnh và âm thanh chân thực nhất., ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
+        },
+        {
+          "name": "bilibili",
+          "versionName": "3.12.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/bilibili_3.12.1.apk",
+          "note": " Bilibili là một nền tảng xem phim hoạt hình và chia sẻ video với nhiều chủ đề khác nhau, trong đó nổi bật nhất là chủ đề hoạt hình, truyện tranh và trò chơi, ...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"]
+        },
+        {
+          "name": "MyTV",
+          "versionName": "4.20.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/vn.mytvnet.b2cott_4.20.0.apk",
+          "note": " MyTV bao gồm một kho nội dung giải trí đa dạng và phong phú, với hơn 170 kênh truyền hình trong nước và quốc tế, các bộ phim điện ảnh, phim bộ, anime, nhạc thiếu nhi, cũng như các chương trình thể thao đỉnh cao như bóng đá, quần vợt, golf từ các giải đấu lớn. MyTV còn cung cấp các dịch vụ như xem theo yêu cầu (VOD), xem lại chương trình đã phát, tua lại chương trình, và nhiều tiện ích khác như karaoke, chơi game, nghe nhạc.  .",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
+        },
+        {
+          "name": "iQIYI",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI 8.8.1.apk",
+          "note": " iQIYI xem các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
+        },
+        {
+          "name": "TV360",
+          "versionName": "5.3",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-ATV_5.3.apk",
+          "note": " TV360 xem truyền hình, các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
+        },
+        {
+          "name": "VTVGO",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/vtvgo (1).apk",
+          "note": " vtv go xem truyền hình, các loại phim,...",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
+        },
+        {
+          "name": "SCTVOnline",
+          "versionName": "5.26.5",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_5.26.5.91805.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
         }
         ]
       },
@@ -127,86 +207,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/OTT-Navigator-IPTV_1.7.3.1_Mod.apk",
         "note": " xinchao.\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
-      },
-      {
-        "name": "VieON",
-        "versionName": "Mới Nhất",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/vieon (1).apk",
-        "note": "  VieON rất đa dạng, bao gồm phim bộ Việt Nam và quốc tế (Hàn, Trung, Nhật, Hollywood), các chương trình truyền hình, gameshow hot, thể thao trực tiếp (bóng đá, e-sports, quần vợt, võ thuật), các sự kiện giải trí lớn (đại nhạc hội, hoa hậu), và hơn 150 kênh truyền hình trong và ngoài nước, bao gồm cả kho nội dung bản quyền của K+ và HBO GO. , ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"]
-      },
-      {
-        "name": "Galaxy ",
-        "versionName": "3.10.13",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPT Play - Phim, Sport, Anime_7.24.10_APKPure (1).apk",
-        "note": "Galaxy Play rất đa dạng, bao gồm: phim bom tấn Hollywood và phim Việt chiếu rạp (nhiều bộ phim doanh thu kỷ lục), các bộ phim bộ độc quyền (Galaxy Play Original) thuộc nhiều thể loại (hành động, tâm lý, tình cảm, hài...), chương trình truyền hình, show thực tế, và các nội dung miễn phí. ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"]
-      },
-      {
-        "name": "FPTPlay",
-        "versionName": "7.19.15",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPTPlayAndroidTV_7.19.15_DL.apk",
-        "note": "FPT Play là ứng dụng xem truyền hình trực tuyến phổ biến trên các dòng điện thoại thông minh, máy tính bảng hoặc Android TV Box. Người xem được tận hưởng các chương trình truyền hình, phim ảnh, bóng đá, gameshow,... đến từ FPT Play với trải nghiệm hình ảnh và âm thanh chân thực nhất., ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
-      },
-      {
-        "name": "bilibili",
-        "versionName": "3.12.1",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/bilibili_3.12.1.apk",
-        "note": " Bilibili là một nền tảng xem phim hoạt hình và chia sẻ video với nhiều chủ đề khác nhau, trong đó nổi bật nhất là chủ đề hoạt hình, truyện tranh và trò chơi, ...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"]
-      },
-      {
-        "name": "MyTV",
-        "versionName": "4.20.0",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/vn.mytvnet.b2cott_4.20.0.apk",
-        "note": " MyTV bao gồm một kho nội dung giải trí đa dạng và phong phú, với hơn 170 kênh truyền hình trong nước và quốc tế, các bộ phim điện ảnh, phim bộ, anime, nhạc thiếu nhi, cũng như các chương trình thể thao đỉnh cao như bóng đá, quần vợt, golf từ các giải đấu lớn. MyTV còn cung cấp các dịch vụ như xem theo yêu cầu (VOD), xem lại chương trình đã phát, tua lại chương trình, và nhiều tiện ích khác như karaoke, chơi game, nghe nhạc.  .",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"]
-      },
-      {
-        "name": "iQIYI",
-        "versionName": "8.8.1",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/iQIYI 8.8.1.apk",
-        "note": " iQIYI xem các loại phim,...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
-      },
-      {
-        "name": "TV360",
-        "versionName": "5.3",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/TV360-ATV_5.3.apk",
-        "note": " TV360 xem truyền hình, các loại phim,...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
-      },
-      {
-        "name": "VTVGO",
-        "versionName": "Mới Nhất",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/vtvgo (1).apk",
-        "note": " vtv go xem truyền hình, các loại phim,...",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
-      },
-      {
-        "name": "SCTVOnline",
-        "versionName": "5.26.5",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/SCTVOnline-ATV_5.26.5.91805.apk",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"]
       }
     ]
     },
