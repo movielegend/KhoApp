@@ -72,10 +72,10 @@
         },
         {
           "name": "FPTPlay",
-          "versionName": "7.19.15",
+          "versionName": "7.25.8",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPTPlayAndroidTV_7.19.15_DL.apk",
+          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/FPT Play - Phim, Sport, Anime_7.25.8_APKPure.apk",
           "note": "FPT Play là ứng dụng xem truyền hình trực tuyến phổ biến trên các dòng điện thoại thông minh, máy tính bảng hoặc Android TV Box. Người xem được tận hưởng các chương trình truyền hình, phim ảnh, bóng đá, gameshow,... đến từ FPT Play với trải nghiệm hình ảnh và âm thanh chân thực nhất., ...",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"]
         },
@@ -186,7 +186,7 @@
         "versionName": "30.19",
         "type": "Gỉai trí",
         "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTube_stable_30.19_armeabi-v7a.apk",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/SmartTube_stable_30.19_armeabi-v7a  .apk",
         "note": " xem video trực tuyến  ...",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
       },
