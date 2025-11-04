@@ -276,13 +276,13 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
       },
       {
-        "name": "WifiDisplay",
+        "name": "Miracast",
         "versionName": "Đang Update",
         "type": "Tiện ích",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/Miracast 1.3.2.apk",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/Miracast 1.3.2.apk",
         "note": "Ứng dụng này sẽ mở Wi-Fi Cài đặt hiển thị nếu hỗ trợ thiết bị của bạn nó (hay nói cách khác shortcut). Một số thiết bị hỗ trợ Wi-Fi Display, nhưng thiết lập hoặc là ẩn hoặc không có mặt",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/WifiDisplay/anh1.png"]
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/anh1.png"]
       },
       {
         "name": "Movie Store",
