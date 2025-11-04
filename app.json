@@ -218,6 +218,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
       },
       {
+        "name": "karaoke",
+        "versionName": "1.2.2",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/logo1.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/Tivi Karaoke_1.2.2.apk",
+        "note": "karaoke hát cho nhau nghe .",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh1.png"]
+      },
+      {
         "name": "OTT_K+",
         "versionName": "1.7.3.1", 
         "type": "Giải Trí",
@@ -301,15 +310,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/Web Video Caster Receiver_2.0.0.apk",
         "note": "ỨNG DỤNG này giúp chúng ta có thể phát trình chiếu web, hoặc 1 nội dung nào đó từ điện thoại lên Máy Chiếu mượt mà hơn.",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
-      },
-      {
-        "name": "karaoke",
-        "versionName": "1.2.2",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/logo1.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/Tivi Karaoke_1.2.2.apk",
-        "note": "karaoke hát cho nhau nghe .",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh1.png"]
       },
       {
         "name": "file màn hình",
