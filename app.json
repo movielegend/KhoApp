@@ -182,6 +182,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/anh.jpg"]
       },
       {
+        "name": "PhimNe",
+        "versionName": "Mới Nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/phimne-3.1.1 (1).apk",
+        "note": "PhimNe - Ở đây toàn phim hay ,truyền hình,bóng đá .. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/anh.jpg"]
+      },
+      {
         "name": "Youtube_chặnQC",
         "versionName": "30.19",
         "type": "Gỉai trí",
