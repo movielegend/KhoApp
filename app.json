@@ -164,6 +164,15 @@
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
       },
       {
+        "name": "PhimNe",
+        "versionName": "Mới Nhất",
+        "type": "Giải Trí",
+        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/logo.png",
+        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/phimne-3.1.1 (1).apk",
+        "note": "PhimNe - Ở đây toàn phim hay ,truyền hình,bóng đá .. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
+        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/anh.jpg"]
+      },
+      {
         "name": "Phim Hay",
         "versionName": "2.4.4",
         "type": "Giải Trí",
@@ -180,15 +189,6 @@
         "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/tv-app-armeabi-v7a (2).apk",
         "note": "VuaGiaiTri - Ở đây toàn phim hay ,truyền hình,bóng đá .. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
         "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/anh.jpg"]
-      },
-      {
-        "name": "PhimNe",
-        "versionName": "Mới Nhất",
-        "type": "Giải Trí",
-        "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/logo.png",
-        "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/phimne-3.1.1 (1).apk",
-        "note": "PhimNe - Ở đây toàn phim hay ,truyền hình,bóng đá .. Xem free về các bộ phim chiếu rạp  đầy đủ Vietsub. Nguồn phim Full HD được tổng hợp ...\n",
-        "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/anh.jpg"]
       },
       {
         "name": "Youtube_chặnQC",
