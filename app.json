@@ -212,18 +212,18 @@
         },
         {
           "name": "Youtube_chặnQC",
-          "versionName": "30.44",
+          "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/SmartTube_beta_30.44_armeabi-v7a.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/youtube-30.44/smarttube_stable.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
         {
           "name": "TizenYoutube",
-          "versionName": "1.0.1",
+          "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/TizenTube_1.0.1.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
         {
@@ -236,10 +236,10 @@
         },
         {
           "name": "Youtube1",
-          "versionName": "5.30",
+          "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
-          "linkDownload": "https://docs.google.com/uc?export=download&id=16Nn2Q4nX7Uiet87t6QOwB0DmM5XdX1Bv",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/youtube1/base.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
         {
@@ -390,10 +390,10 @@
         },
         {
           "name": "Browser",
-          "versionName": "2.0.5",
+          "versionName": "mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Browser_2.0.5.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/trinhduyet/emet.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/anh.png"]
         }
       ]
