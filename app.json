@@ -236,10 +236,10 @@
         },
         {
           "name": "Youtube1",
-          "versionName": "5.30",
+          "versionName": "2.20",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Youtube.3.05.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/youtube1/basebase.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
         },
         {
