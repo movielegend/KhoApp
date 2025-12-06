@@ -403,7 +403,7 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/preview.png"]
-        },
+        }
       ]
     }
   }
