@@ -104,16 +104,6 @@
           ]
         },
         {
-          "name": "MyTV",
-          "versionName": "4.20.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/vn.mytvnet.b2cott_4.20.0.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MyTV/anh.png"
-          ]
-        },
-        {
           "name": "iQIYI",
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
@@ -142,20 +132,10 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
           ]
-        },
-        {
-          "name": "SCTVOnline",
-          "versionName": "5.26.5",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/SCTVOnline-ATV_5.26.5.91805.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/SCTVOnline/anh2.png"
-          ]
         }
       ]
     },
-
+    
     "entertainment": {
       "apps": [
         {
@@ -166,16 +146,6 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Netflix-9.38.0.build.5.63681.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"
-          ]
-        },
-        {
-          "name": "Netflix_BảnTest",
-          "versionName": "8.122.1",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_BảnTest/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/netflix/Netflix-8.122.1.apk",
-          "preview": [
-            "https://raw.githubusercontentusercontent.com/movielegend/KhoApp/main/Apps/Netflix_BảnTest/anh2.png"
           ]
         },
         {
@@ -211,6 +181,14 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/anh.jpg"]
         },
         {
+          "name": "Youtube",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/youtube1/base.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
+        },
+        {
           "name": "Youtube_chặnQC",
           "versionName": "mới nhất",
           "type": "Giải Trí",
@@ -225,22 +203,6 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
-        },
-        {
-          "name": "Youtube",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/youtube1/base.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
-        },
-        {
-          "name": "karaoke",
-          "versionName": "1.2.2",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/Tivi Karaoke_1.2.2.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/karaoke/anh1.png"]
         },
         {
           "name": "OTT_K+",
@@ -265,18 +227,10 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Soundcloud_2024.06.21_ATV.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"]
-        },
-        {
-          "name": "Zing Mp3",
-          "versionName": "24.08",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/ZingMP3-AndroidTV_24.08.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/ZingMp3/anh1.png"]
         }
       ]
-    },
-
+     },
+        
     "utilities": {
       "apps": [
         {
@@ -304,14 +258,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/anh1.png"]
         },
         {
-          "name": "Movie Store",
-          "versionName": "bản update",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/logo1.png",
-          "linkDownload": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/MovieStore_v1.2.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Movie Store/anh1.png"]
-        },
-        {
           "name": "trình Chiếu Web",
           "versionName": "2.2.0",
           "type": "Tiện ích",
@@ -326,14 +272,6 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
-        },
-        {
-          "name": "AptoideTV",
-          "versionName": "5.1.2",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/AptoideTV_5.1.2.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AptoideTV/anh.png"]
         },
         {
           "name": "DLStore",
