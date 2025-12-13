@@ -228,14 +228,6 @@
         },
         {
           "name": "Youtube",
-          "versionName": "3.05",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Youtube.3.05.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube/anh1.png"]
-        },
-        {
-          "name": "Youtube1",
           "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
