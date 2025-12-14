@@ -85,10 +85,10 @@
         },
         {
           "name": "FPTPlay",
-          "versionName": "7.25.8",
+          "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/FPT.Play.-.Phim.Sport.Anime_7.25.8_APKPure.apk",
+          "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/FPT.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
           ]
@@ -125,10 +125,10 @@
         },
         {
           "name": "VTVGO",
-          "versionName": "Mới Nhất",
+          "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/vieon.1.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
           ]
