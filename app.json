@@ -148,6 +148,16 @@
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"
           ]
         },
+         {
+          "name": "Netflix",
+          "versionName": "9.38.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/SmartTube_stable_30.68_armeabi-v7a.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"
+          ]
+        },
         {
           "name": "Rổ Phim",
           "versionName": "1.1.5",
