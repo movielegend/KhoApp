@@ -138,16 +138,6 @@
     
     "entertainment": {
       "apps": [
-        {
-          "name": "Netflix_2025",
-          "versionName": "9.38.0",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Netflix-9.38.0.build.5.63681.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"
-          ]
-        },
          {
           "name": "Netflix",
           "versionName": "9.38.0",
