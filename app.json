@@ -327,11 +327,11 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/anh.png"]
         },
         {
-          "name": "Browser",
+          "name": "Cốc Cốc",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/logo.png",
-          "linkDownload": "",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base_coccoc.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Browser/anh.png"]
         },
         {
