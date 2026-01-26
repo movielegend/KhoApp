@@ -157,14 +157,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
         },
         {
-          "name": "PhimNe",
-          "versionName": "3.1.1",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/phimne-3.1.1.1.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimNe/anh1.png"]
-        },
-        {
           "name": "Phim Hay",
           "versionName": "2.4.4",
           "type": "Giải Trí",
