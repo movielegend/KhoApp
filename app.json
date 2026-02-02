@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "note": " SẢN PHẨM QUÝ KHÁCH ĐƯỢC TRẢI NGHIỆM DÙNG THỬ TRONG 15 NGÀY ĐẦU TIÊN KHÔNG ƯNG HOÀN TIỀN , HỖ TRỢ LÊN ĐỜI , BẢO HÀNH 24 THÁNG LỖI 1 ĐỔI 1   ",
-      "photo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Untitled-2.1.png"
+      "photo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/QR.png"
     },
 
     "tivi": {
@@ -144,9 +144,15 @@
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-8.87.0.build.1.50507.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"
-          ]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+        },
+        {
+          "name": "Netflix",
+          "versionName": "9.50.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.50.2.build.8.63993.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
           "name": "Rổ Phim",
