@@ -155,14 +155,6 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
-          "name": "Rổ Phim",
-          "versionName": "1.1.5",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/RoGaiTri_v1.1.5.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Rổ Phim/anh.png"]
-        },
-        {
           "name": "Phim Hay",
           "versionName": "2.4.4",
           "type": "Giải Trí",
