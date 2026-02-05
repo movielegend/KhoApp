@@ -155,6 +155,14 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
+          "name": "Monplayer",
+          "versionName": "Mới nhất,
+          "type": "Giải Trí, Phim",
+          "logo": https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png"]
+        },
+        {
           "name": "Phim Hay",
           "versionName": "2.4.4",
           "type": "Giải Trí",
