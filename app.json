@@ -157,8 +157,8 @@
         {
           "name": "Monplayer",
           "versionName": "Mới nhất,
-          "type": "Giải Trí, Phim",
-          "logo": https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png"]
         },
