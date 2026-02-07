@@ -155,6 +155,14 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
+          "name": "Phim Hay",
+          "versionName": "2.4.4",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/PhimHayVer244.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+        },
+        {
           "name": "Monplayer",
           "versionName": "Mới nhất",
           "type": "Giải Trí",
@@ -163,14 +171,14 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png"]
         },
         {
-          "name": "Phim Hay",
-          "versionName": "2.4.4",
+          "name": "Phim 4K",
+          "versionName": "Mới nhất",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/PhimHayVer244.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.3.2.1.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
         },
-         {
+        {
           "name": "MapVoice",
           "versionName": "mới nhất",
           "type": "Tiện ích",
