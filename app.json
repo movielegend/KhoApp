@@ -140,10 +140,10 @@
       "apps": [
          {
           "name": "Netflix",
-          "versionName": "9.38.0",
+          "versionName": "9.53.0",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-8.87.0.build.1.50507.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
@@ -215,7 +215,7 @@
           "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/SmartTube_stable_30.68_armeabi-v7a.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/SmartTube_beta_30.90_armeabi-v7a.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
         {
@@ -225,14 +225,6 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
-        },
-        {
-          "name": "OTT_K+",
-          "versionName": "1.7.3.1",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/OTT-Navigator-IPTV_1.7.3.1_Mod.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/OTT_K+/anh.png"]
         },
         {
           "name": "Spotify",
@@ -361,31 +353,7 @@
           "versionName": "mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/btrmt.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
-        },
-        {
-          "name": "Boards",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vapptv.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
-        },
-        {
-          "name": "Boards",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/NVC_Movie_TV_v2.6.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
-        },
-        {
-          "name": "Boards",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CloudStream_4.6.0.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
         }
       ]
