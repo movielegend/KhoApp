@@ -345,16 +345,16 @@
           "versionName": "mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/GBoard.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
-        },
-        {
-          "name": "Boards",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/rophim.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
+        },
+         {
+          "name": "Zank Remot",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/ATVbox-Remote-20.2.1.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg"]
         }
       ]
     }
