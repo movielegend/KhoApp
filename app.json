@@ -171,14 +171,6 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png"]
         },
         {
-          "name": "Phim 30",
-          "versionName": "Mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phim30.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/previewphim30.jpg"]
-        },
-        {
           "name": "Phim 4K",
           "versionName": "Mới nhất",
           "type": "Giải Trí",
