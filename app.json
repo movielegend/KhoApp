@@ -333,12 +333,12 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg"]
         },
         {
-          "name": "Boards",
+          "name": "1.1.1.1",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/rophim.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/lo.png"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/1111.2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg"]
         },
          {
           "name": "Zank Remot",
