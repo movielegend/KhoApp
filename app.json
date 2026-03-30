@@ -179,12 +179,12 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
         },
          {
-          "name": "NVC Movie",
+          "name": "NVC Phim",
           "versionName": "Mới nhất",
           "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logonvc.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/nvc.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logonvc.jpg"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoncvp.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/nvcp.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoncvp.jpg"]
         },
         {
           "name": "MapVoice",
