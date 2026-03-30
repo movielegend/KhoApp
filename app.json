@@ -179,12 +179,12 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
         },
          {
-          "name": "NVC Phim",
+          "name": "Phimvivu",
           "versionName": "Mới nhất",
           "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoncvp.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/nvcp.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoncvp.jpg"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phimvivu.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg"]
         },
         {
           "name": "MapVoice",
