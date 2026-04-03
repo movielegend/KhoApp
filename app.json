@@ -187,6 +187,14 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg"]
         },
         {
+          "name": "Phim30",
+          "versionName": "Mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phim30.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg"]
+        },
+        {
           "name": "MapVoice",
           "versionName": "mới nhất",
           "type": "Tiện ích",
