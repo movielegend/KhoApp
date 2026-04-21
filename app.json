@@ -363,6 +363,14 @@
           "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/ATVbox-Remote-20.2.1.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg"]
+        },
+        {
+          "name": "ApowerMirror",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/ApowerMirror.v1.8.28.1.Premium._2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
         }
       ]
     }
