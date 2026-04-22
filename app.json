@@ -164,10 +164,10 @@
         },
         {
           "name": "Rổ Phim",
-          "versionName": "1.0.1",
+          "versionName": "1.0.3",
           "type": "Giải Trí",
           "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/rophim.1.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/rophimtv-1.0.3.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg"]
         },
         {
