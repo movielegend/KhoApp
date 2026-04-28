@@ -349,12 +349,12 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg"]
         },
         {
-          "name": "1.1.1.1",
+          "name": "BrowseHere",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/1111.2.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/com.tcl.browser.2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg"]
         },
          {
           "name": "Zank Remot",
