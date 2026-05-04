@@ -379,6 +379,14 @@
           "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/ApowerMirror.v1.8.28.1.Premium._2.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
+        },
+        {
+          "name": "GBoadr",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/GBoard.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1.jpg"]
         }
       ]
     }
