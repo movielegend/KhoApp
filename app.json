@@ -8,6 +8,17 @@
     "tivi": {
       "apps": [
         {
+          "name": "Truyền Hình Viet Play TV",
+          "versionName": "2.3",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vietplayTV.apk",
+          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg"
+          ]
+        },
+        {
           "name": "Truyền Hình_CòTV",
           "versionName": "1.1.3",
           "type": "Giải Trí",
