@@ -19,17 +19,6 @@
           ]
         },
         {
-          "name": "Truyền Hình_CòTV",
-          "versionName": "1.1.3",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
-          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
-          ]
-        },
-        {
           "name": "Truyền Hình_SportTV",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
@@ -182,52 +171,12 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
         },
         {
-          "name": "Rổ Phim",
-          "versionName": "1.0.3",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/rophimtv-1.0.3.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg"]
-        },
-        {
-          "name": "Phim 4K",
-          "versionName": "2.5.7",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.5.7.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
-        },
-         {
-          "name": "Phimvivu",
-          "versionName": "Mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phimvivu.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg"]
-        },
-        {
-          "name": "Phim30",
-          "versionName": "1.0.31",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phim30.1.0.31.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg"]
-        },
-        {
           "name": "MapVoice",
           "versionName": "mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png"]
-        },
-        {
-          "name": "VuaGiaiTri",
-          "versionName": "Mới Nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/tv-app-armeabi-v7a.2.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VuaGiaiTri/anh.jpg"]
         },
         {
           "name": "Youtube",
