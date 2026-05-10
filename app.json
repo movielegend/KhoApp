@@ -163,12 +163,20 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
-          "name": "Phim Hay",
+          "name": "Cloudsream",
           "versionName": "2.4.4",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/PhimHayVer244.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg"]
+        },
+        {
+          "name": "Stremio",
+          "versionName": "1.6.7",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/stremio.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg"]
         },
         {
           "name": "MapVoice",
