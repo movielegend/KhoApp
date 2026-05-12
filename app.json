@@ -7,15 +7,26 @@
 
     "tivi": {
       "apps": [
-        {
-          "name": "Truyền Hình Viet Play TV",
-          "versionName": "2.3",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vietplayTV.apk",
-          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+         {
+          "name": "Truyền Hình_iMedia",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imedia.TV.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg"
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+          ]
+         },
+         {
+          "name": "Truyền hình_DLtivi",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/DLtivi.apk",
+          "note": "Ứng dụng xem TV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
         },
         {
@@ -38,28 +49,6 @@
           "note": "Xem truyền hình, bóng đá miễn phí.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg"
-          ]
-        },
-        {
-          "name": "Truyền Hình_iMedia",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
-          ]
-        },
-        {
-          "name": "Truyền hình_DLtivi",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/DLStore_v10.1.apk",
-          "note": "Ứng dụng xem TV miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
         },
         {
