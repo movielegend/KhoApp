@@ -353,6 +353,14 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tiktoklife.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotiktoklife.jpg"]
         },
+         {
+          "name": "X Plore",
+          "versionName": "mới nhất",
+          "type": "giải trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/xplore.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"]
+        },
         {
           "name": "GBoadr",
           "versionName": "mới nhất",
