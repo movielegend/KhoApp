@@ -160,12 +160,12 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg"]
         },
         {
-          "name": "Stremio",
-          "versionName": "1.6.7",
+          "name": "Cô be Phim",
+          "versionName": "1.0.1",
           "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/stremio.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/cobephimtv.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg"]
         },
          {
           "name": "Phim 4K",
