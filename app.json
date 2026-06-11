@@ -41,14 +41,14 @@
           ]
         },
         {
-          "name": "Truyền Hình_SportTV",
+          "name": "Truyền Hình Cò Tivi",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/logo1.pn",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/sporstv.apk",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocotivi.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Co.TiVi.1.1.7.apk",
           "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocotivi.jpg"
           ]
         },
         {
