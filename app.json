@@ -131,6 +131,14 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
         },
+           {
+          "name": "Downloader",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logodownloader.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/downloader.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logodownloader.jpg"]
+        },
         {
           "name": "Spotify",
           "versionName": "mới nhất",
