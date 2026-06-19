@@ -6,6 +6,8 @@
     },
 
     "tivi": {
+      "apps": [
+        {
           "name": "VieON",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
@@ -104,14 +106,6 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.50.2.build.8.63993.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
-        },
-        {
-          "name": "Cloudsream",
-          "versionName": "2.4.4",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/PhimHayVer244.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg"]
         },
         {
           "name": "Youtube",
