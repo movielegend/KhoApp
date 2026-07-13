@@ -59,6 +59,16 @@
           ]
         },
         {
+          "name": "MyTV",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logomytv.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/MyTV.4.67.0_530_20251008.apk",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logomytv.jpg"
+          ]
+        },
+        {
           "name": "VTVGO",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
