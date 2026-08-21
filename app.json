@@ -99,6 +99,14 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
+         {
+          "name": "Netflix",
+          "versionName": "8.122.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/netflix1.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+        },
         {
           "name": "Netflix",
           "versionName": "9.50.0",
