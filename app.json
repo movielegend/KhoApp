@@ -185,6 +185,14 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
         },
         {
+          "name": "ML Launcher",
+          "versionName": "1.0.0",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoML.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/MLlauncher.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoML.png"]
+        },
+        {
           "name": "Miracast",
           "versionName": "1.3.2",
           "type": "Tiện ích",
