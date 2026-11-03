@@ -301,6 +301,14 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/xplore.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"]
         },
+          {
+          "name": "ML Launcher",
+          "versionName": "1.0.0",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoML.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/OSbancuoi.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoML.png"]
+        },
         {
           "name": "GBoadr",
           "versionName": "mới nhất",
